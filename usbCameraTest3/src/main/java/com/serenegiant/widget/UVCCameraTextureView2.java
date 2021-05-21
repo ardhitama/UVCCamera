@@ -31,7 +31,6 @@ import android.view.Surface;
 import android.view.TextureView;
 
 import com.serenegiant.encoder.IVideoEncoder;
-import com.serenegiant.encoder.MediaEncoder;
 
 /**
  * change the view size with keeping the specified aspect ratio.

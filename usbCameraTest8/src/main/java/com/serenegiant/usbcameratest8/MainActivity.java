@@ -27,7 +27,7 @@ import android.animation.Animator;
 import android.graphics.SurfaceTexture;
 import android.hardware.usb.UsbDevice;
 import android.os.Bundle;
-import android.support.annotation.NonNull;
+import androidx.annotation.NonNull;
 import android.util.Log;
 import android.view.Surface;
 import android.view.View;
@@ -40,13 +40,12 @@ import android.widget.Toast;
 import android.widget.ToggleButton;
 
 import com.serenegiant.common.BaseActivity;
-
 import com.serenegiant.usb.CameraDialog;
-import com.serenegiant.usbcameracommon.UVCCameraHandler;
 import com.serenegiant.usb.USBMonitor;
 import com.serenegiant.usb.USBMonitor.OnDeviceConnectListener;
 import com.serenegiant.usb.USBMonitor.UsbControlBlock;
 import com.serenegiant.usb.UVCCamera;
+import com.serenegiant.usbcameracommon.UVCCameraHandler;
 import com.serenegiant.utils.ViewAnimationHelper;
 import com.serenegiant.widget.CameraViewInterface;
 

@@ -1,0 +1,2 @@
+D:\dev\UVCCamera\libuvccamera\src\main\jni\Android.mk
+D:\dev\UVCCamera\libuvccamera\src\main\jni\Application.mk

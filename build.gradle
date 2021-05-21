@@ -4,7 +4,8 @@ buildscript {
 //		google()
 		maven { url 'https://maven.google.com' }
         jcenter()
-    }
+		google()
+	}
     dependencies {
         classpath 'com.android.tools.build:gradle:4.2.1'
     }
@@ -16,7 +17,8 @@ allprojects {
 		maven { url 'https://maven.google.com' }
 		jcenter()
 		maven { url 'http://raw.github.com/saki4510t/libcommon/master/repository/' }
-    }
+		google()
+	}
 }
 
 task clean(type: Delete) {

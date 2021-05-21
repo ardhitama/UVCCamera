@@ -1,18 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="CompilerConfiguration">
-    <bytecodeTargetLevel>
-      <module name="UVCCamera.libuvccamera" target="1.8" />
-      <module name="UVCCamera.usbCameraCommon" target="1.8" />
-      <module name="UVCCamera.usbCameraTest" target="1.8" />
-      <module name="UVCCamera.usbCameraTest0" target="1.8" />
-      <module name="UVCCamera.usbCameraTest2" target="1.8" />
-      <module name="UVCCamera.usbCameraTest3" target="1.8" />
-      <module name="UVCCamera.usbCameraTest4" target="1.8" />
-      <module name="UVCCamera.usbCameraTest5" target="1.8" />
-      <module name="UVCCamera.usbCameraTest6" target="1.8" />
-      <module name="UVCCamera.usbCameraTest7" target="1.8" />
-      <module name="UVCCamera.usbCameraTest8" target="1.8" />
-    </bytecodeTargetLevel>
+    <bytecodeTargetLevel target="1.8" />
   </component>
 </project>

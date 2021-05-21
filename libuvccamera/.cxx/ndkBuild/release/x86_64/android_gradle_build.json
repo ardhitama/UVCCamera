@@ -1,0 +1,1487 @@
+{
+  "buildFiles": [
+    "D:\\dev\\UVCCamera\\libuvccamera\\src\\main\\jni\\Android.mk",
+    "D:\\dev\\UVCCamera\\libuvccamera\\src\\main\\jni\\Application.mk"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "C:\\Users\\ardhi\\AppData\\Local\\Android\\Sdk\\ndk\\22.1.7171670\\ndk-build.cmd",
+      "NDK_PROJECT_PATH\u003dnull",
+      "APP_BUILD_SCRIPT\u003dD:\\dev\\UVCCamera\\libuvccamera\\src\\main\\jni\\Android.mk",
+      "NDK_APPLICATION_MK\u003dD:\\dev\\UVCCamera\\libuvccamera\\src\\main\\jni\\Application.mk",
+      "APP_ABI\u003dx86_64",
+      "NDK_ALL_ABIS\u003dx86_64",
+      "NDK_DEBUG\u003d0",
+      "APP_PLATFORM\u003dandroid-16",
+      "NDK_OUT\u003dD:/dev/UVCCamera/libuvccamera/build/intermediates/ndkBuild/release/obj",
+      "NDK_LIBS_OUT\u003dD:\\dev\\UVCCamera\\libuvccamera\\build\\intermediates\\ndkBuild\\release\\lib",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "C:\\Users\\ardhi\\AppData\\Local\\Android\\Sdk\\ndk\\22.1.7171670\\ndk-build.cmd",
+    "NDK_PROJECT_PATH\u003dnull",
+    "APP_BUILD_SCRIPT\u003dD:\\dev\\UVCCamera\\libuvccamera\\src\\main\\jni\\Android.mk",
+    "NDK_APPLICATION_MK\u003dD:\\dev\\UVCCamera\\libuvccamera\\src\\main\\jni\\Application.mk",
+    "APP_ABI\u003dx86_64",
+    "NDK_ALL_ABIS\u003dx86_64",
+    "NDK_DEBUG\u003d0",
+    "APP_PLATFORM\u003dandroid-16",
+    "NDK_OUT\u003dD:/dev/UVCCamera/libuvccamera/build/intermediates/ndkBuild/release/obj",
+    "NDK_LIBS_OUT\u003dD:\\dev\\UVCCamera\\libuvccamera\\build\\intermediates\\ndkBuild\\release\\lib",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "jdarith-release-jpeg-turbo1500_static": {
+      "buildCommandComponents": [
+        "C:\\Users\\ardhi\\AppData\\Local\\Android\\Sdk\\ndk\\22.1.7171670\\ndk-build.cmd",
+        "NDK_PROJECT_PATH\u003dnull",
+        "APP_BUILD_SCRIPT\u003dD:\\dev\\UVCCamera\\libuvccamera\\src\\main\\jni\\Android.mk",
+        "NDK_APPLICATION_MK\u003dD:\\dev\\UVCCamera\\libuvccamera\\src\\main\\jni\\Application.mk",
+        "APP_ABI\u003dx86_64",
+        "NDK_ALL_ABIS\u003dx86_64",
+        "NDK_DEBUG\u003d0",
+        "APP_PLATFORM\u003dandroid-16",
+        "NDK_OUT\u003dD:/dev/UVCCamera/libuvccamera/build/intermediates/ndkBuild/release/obj",
+        "NDK_LIBS_OUT\u003dD:\\dev\\UVCCamera\\libuvccamera\\build\\intermediates\\ndkBuild\\release\\lib",
+        "D:/dev/UVCCamera/libuvccamera/build/intermediates/ndkBuild/release/obj/local/x86_64/objs/jpeg-turbo1500_static/jdarith.o"
+      ],
+      "toolchain": "toolchain-jpeg-turbo1500_static",
+      "abi": "jpeg-turbo1500_static",
+      "artifactName": "jdarith",
+      "output": "D:\\dev\\UVCCamera\\libuvccamera\\build\\intermediates\\ndkBuild\\release\\obj\\local\\x86_64\\objs\\jpeg-turbo1500_static\\jdarith.o"
+    },
+    "ctrl-release-src": {
+      "buildCommandComponents": [
+        "C:\\Users\\ardhi\\AppData\\Local\\Android\\Sdk\\ndk\\22.1.7171670\\ndk-build.cmd",
+        "NDK_PROJECT_PATH\u003dnull",
+        "APP_BUILD_SCRIPT\u003dD:\\dev\\UVCCamera\\libuvccamera\\src\\main\\jni\\Android.mk",
+        "NDK_APPLICATION_MK\u003dD:\\dev\\UVCCamera\\libuvccamera\\src\\main\\jni\\Application.mk",
+        "APP_ABI\u003dx86_64",
+        "NDK_ALL_ABIS\u003dx86_64",
+        "NDK_DEBUG\u003d0",
+        "APP_PLATFORM\u003dandroid-16",
+        "NDK_OUT\u003dD:/dev/UVCCamera/libuvccamera/build/intermediates/ndkBuild/release/obj",
+        "NDK_LIBS_OUT\u003dD:\\dev\\UVCCamera\\libuvccamera\\build\\intermediates\\ndkBuild\\release\\lib",
+        "D:/dev/UVCCamera/libuvccamera/build/intermediates/ndkBuild/release/obj/local/x86_64/objs/uvc_static/src/ctrl.o"
+      ],
+      "toolchain": "toolchain-src",
+      "abi": "src",
+      "artifactName": "ctrl",
+      "output": "D:\\dev\\UVCCamera\\libuvccamera\\build\\intermediates\\ndkBuild\\release\\obj\\local\\x86_64\\objs\\uvc_static\\src\\ctrl.o"
+    },
+    "jdapimin-release-jpeg-turbo1500_static": {
+      "buildCommandComponents": [
+        "C:\\Users\\ardhi\\AppData\\Local\\Android\\Sdk\\ndk\\22.1.7171670\\ndk-build.cmd",
+        "NDK_PROJECT_PATH\u003dnull",
+        "APP_BUILD_SCRIPT\u003dD:\\dev\\UVCCamera\\libuvccamera\\src\\main\\jni\\Android.mk",
+        "NDK_APPLICATION_MK\u003dD:\\dev\\UVCCamera\\libuvccamera\\src\\main\\jni\\Application.mk",
+        "APP_ABI\u003dx86_64",
+        "NDK_ALL_ABIS\u003dx86_64",
+        "NDK_DEBUG\u003d0",
+        "APP_PLATFORM\u003dandroid-16",
+        "NDK_OUT\u003dD:/dev/UVCCamera/libuvccamera/build/intermediates/ndkBuild/release/obj",
+        "NDK_LIBS_OUT\u003dD:\\dev\\UVCCamera\\libuvccamera\\build\\intermediates\\ndkBuild\\release\\lib",
+        "D:/dev/UVCCamera/libuvccamera/build/intermediates/ndkBuild/release/obj/local/x86_64/objs/jpeg-turbo1500_static/jdapimin.o"
+      ],
+      "toolchain": "toolchain-jpeg-turbo1500_static",
+      "abi": "jpeg-turbo1500_static",
+      "artifactName": "jdapimin",
+      "output": "D:\\dev\\UVCCamera\\libuvccamera\\build\\intermediates\\ndkBuild\\release\\obj\\local\\x86_64\\objs\\jpeg-turbo1500_static\\jdapimin.o"
+    },
+    "jquant2-release-jpeg-turbo1500_static": {
+      "buildCommandComponents": [
+        "C:\\Users\\ardhi\\AppData\\Local\\Android\\Sdk\\ndk\\22.1.7171670\\ndk-build.cmd",
+        "NDK_PROJECT_PATH\u003dnull",
+        "APP_BUILD_SCRIPT\u003dD:\\dev\\UVCCamera\\libuvccamera\\src\\main\\jni\\Android.mk",
+        "NDK_APPLICATION_MK\u003dD:\\dev\\UVCCamera\\libuvccamera\\src\\main\\jni\\Application.mk",
+        "APP_ABI\u003dx86_64",
+        "NDK_ALL_ABIS\u003dx86_64",
+        "NDK_DEBUG\u003d0",
+        "APP_PLATFORM\u003dandroid-16",
+        "NDK_OUT\u003dD:/dev/UVCCamera/libuvccamera/build/intermediates/ndkBuild/release/obj",
+        "NDK_LIBS_OUT\u003dD:\\dev\\UVCCamera\\libuvccamera\\build\\intermediates\\ndkBuild\\release\\lib",
+        "D:/dev/UVCCamera/libuvccamera/build/intermediates/ndkBuild/release/obj/local/x86_64/objs/jpeg-turbo1500_static/jquant2.o"
+      ],
+      "toolchain": "toolchain-jpeg-turbo1500_static",
+      "abi": "jpeg-turbo1500_static",
+      "artifactName": "jquant2",
+      "output": "D:\\dev\\UVCCamera\\libuvccamera\\build\\intermediates\\ndkBuild\\release\\obj\\local\\x86_64\\objs\\jpeg-turbo1500_static\\jquant2.o"
+    },
+    "jmemmgr-release-jpeg-turbo1500_static": {
+      "buildCommandComponents": [
+        "C:\\Users\\ardhi\\AppData\\Local\\Android\\Sdk\\ndk\\22.1.7171670\\ndk-build.cmd",
+        "NDK_PROJECT_PATH\u003dnull",
+        "APP_BUILD_SCRIPT\u003dD:\\dev\\UVCCamera\\libuvccamera\\src\\main\\jni\\Android.mk",
+        "NDK_APPLICATION_MK\u003dD:\\dev\\UVCCamera\\libuvccamera\\src\\main\\jni\\Application.mk",
+        "APP_ABI\u003dx86_64",
+        "NDK_ALL_ABIS\u003dx86_64",
+        "NDK_DEBUG\u003d0",
+        "APP_PLATFORM\u003dandroid-16",
+        "NDK_OUT\u003dD:/dev/UVCCamera/libuvccamera/build/intermediates/ndkBuild/release/obj",
+        "NDK_LIBS_OUT\u003dD:\\dev\\UVCCamera\\libuvccamera\\build\\intermediates\\ndkBuild\\release\\lib",
+        "D:/dev/UVCCamera/libuvccamera/build/intermediates/ndkBuild/release/obj/local/x86_64/objs/jpeg-turbo1500_static/jmemmgr.o"
+      ],
+      "toolchain": "toolchain-jpeg-turbo1500_static",
+      "abi": "jpeg-turbo1500_static",
+      "artifactName": "jmemmgr",
+      "output": "D:\\dev\\UVCCamera\\libuvccamera\\build\\intermediates\\ndkBuild\\release\\obj\\local\\x86_64\\objs\\jpeg-turbo1500_static\\jmemmgr.o"
+    },
+    "android_usbfs-release-os": {
+      "buildCommandComponents": [
+        "C:\\Users\\ardhi\\AppData\\Local\\Android\\Sdk\\ndk\\22.1.7171670\\ndk-build.cmd",
+        "NDK_PROJECT_PATH\u003dnull",
+        "APP_BUILD_SCRIPT\u003dD:\\dev\\UVCCamera\\libuvccamera\\src\\main\\jni\\Android.mk",
+        "NDK_APPLICATION_MK\u003dD:\\dev\\UVCCamera\\libuvccamera\\src\\main\\jni\\Application.mk",
+        "APP_ABI\u003dx86_64",
+        "NDK_ALL_ABIS\u003dx86_64",
+        "NDK_DEBUG\u003d0",
+        "APP_PLATFORM\u003dandroid-16",
+        "NDK_OUT\u003dD:/dev/UVCCamera/libuvccamera/build/intermediates/ndkBuild/release/obj",
+        "NDK_LIBS_OUT\u003dD:\\dev\\UVCCamera\\libuvccamera\\build\\intermediates\\ndkBuild\\release\\lib",
+        "D:/dev/UVCCamera/libuvccamera/build/intermediates/ndkBuild/release/obj/local/x86_64/objs/usb100_static/libusb/os/android_usbfs.o"
+      ],
+      "toolchain": "toolchain-os",
+      "abi": "os",
+      "artifactName": "android_usbfs",
+      "output": "D:\\dev\\UVCCamera\\libuvccamera\\build\\intermediates\\ndkBuild\\release\\obj\\local\\x86_64\\objs\\usb100_static\\libusb\\os\\android_usbfs.o"
+    },
+    "jctrans-release-jpeg-turbo1500_static": {
+      "buildCommandComponents": [
+        "C:\\Users\\ardhi\\AppData\\Local\\Android\\Sdk\\ndk\\22.1.7171670\\ndk-build.cmd",
+        "NDK_PROJECT_PATH\u003dnull",
+        "APP_BUILD_SCRIPT\u003dD:\\dev\\UVCCamera\\libuvccamera\\src\\main\\jni\\Android.mk",
+        "NDK_APPLICATION_MK\u003dD:\\dev\\UVCCamera\\libuvccamera\\src\\main\\jni\\Application.mk",
+        "APP_ABI\u003dx86_64",
+        "NDK_ALL_ABIS\u003dx86_64",
+        "NDK_DEBUG\u003d0",
+        "APP_PLATFORM\u003dandroid-16",
+        "NDK_OUT\u003dD:/dev/UVCCamera/libuvccamera/build/intermediates/ndkBuild/release/obj",
+        "NDK_LIBS_OUT\u003dD:\\dev\\UVCCamera\\libuvccamera\\build\\intermediates\\ndkBuild\\release\\lib",
+        "D:/dev/UVCCamera/libuvccamera/build/intermediates/ndkBuild/release/obj/local/x86_64/objs/jpeg-turbo1500_static/jctrans.o"
+      ],
+      "toolchain": "toolchain-jpeg-turbo1500_static",
+      "abi": "jpeg-turbo1500_static",
+      "artifactName": "jctrans",
+      "output": "D:\\dev\\UVCCamera\\libuvccamera\\build\\intermediates\\ndkBuild\\release\\obj\\local\\x86_64\\objs\\jpeg-turbo1500_static\\jctrans.o"
+    },
+    "descriptor-release-libusb": {
+      "buildCommandComponents": [
+        "C:\\Users\\ardhi\\AppData\\Local\\Android\\Sdk\\ndk\\22.1.7171670\\ndk-build.cmd",
+        "NDK_PROJECT_PATH\u003dnull",
+        "APP_BUILD_SCRIPT\u003dD:\\dev\\UVCCamera\\libuvccamera\\src\\main\\jni\\Android.mk",
+        "NDK_APPLICATION_MK\u003dD:\\dev\\UVCCamera\\libuvccamera\\src\\main\\jni\\Application.mk",
+        "APP_ABI\u003dx86_64",
+        "NDK_ALL_ABIS\u003dx86_64",
+        "NDK_DEBUG\u003d0",
+        "APP_PLATFORM\u003dandroid-16",
+        "NDK_OUT\u003dD:/dev/UVCCamera/libuvccamera/build/intermediates/ndkBuild/release/obj",
+        "NDK_LIBS_OUT\u003dD:\\dev\\UVCCamera\\libuvccamera\\build\\intermediates\\ndkBuild\\release\\lib",
+        "D:/dev/UVCCamera/libuvccamera/build/intermediates/ndkBuild/release/obj/local/x86_64/objs/usb100_static/libusb/descriptor.o"
+      ],
+      "toolchain": "toolchain-libusb",
+      "abi": "libusb",
+      "artifactName": "descriptor",
+      "output": "D:\\dev\\UVCCamera\\libuvccamera\\build\\intermediates\\ndkBuild\\release\\obj\\local\\x86_64\\objs\\usb100_static\\libusb\\descriptor.o"
+    },
+    "jfdctfst-release-jpeg-turbo1500_static": {
+      "buildCommandComponents": [
+        "C:\\Users\\ardhi\\AppData\\Local\\Android\\Sdk\\ndk\\22.1.7171670\\ndk-build.cmd",
+        "NDK_PROJECT_PATH\u003dnull",
+        "APP_BUILD_SCRIPT\u003dD:\\dev\\UVCCamera\\libuvccamera\\src\\main\\jni\\Android.mk",
+        "NDK_APPLICATION_MK\u003dD:\\dev\\UVCCamera\\libuvccamera\\src\\main\\jni\\Application.mk",
+        "APP_ABI\u003dx86_64",
+        "NDK_ALL_ABIS\u003dx86_64",
+        "NDK_DEBUG\u003d0",
+        "APP_PLATFORM\u003dandroid-16",
+        "NDK_OUT\u003dD:/dev/UVCCamera/libuvccamera/build/intermediates/ndkBuild/release/obj",
+        "NDK_LIBS_OUT\u003dD:\\dev\\UVCCamera\\libuvccamera\\build\\intermediates\\ndkBuild\\release\\lib",
+        "D:/dev/UVCCamera/libuvccamera/build/intermediates/ndkBuild/release/obj/local/x86_64/objs/jpeg-turbo1500_static/jfdctfst.o"
+      ],
+      "toolchain": "toolchain-jpeg-turbo1500_static",
+      "abi": "jpeg-turbo1500_static",
+      "artifactName": "jfdctfst",
+      "output": "D:\\dev\\UVCCamera\\libuvccamera\\build\\intermediates\\ndkBuild\\release\\obj\\local\\x86_64\\objs\\jpeg-turbo1500_static\\jfdctfst.o"
+    },
+    "jsimd_x86_64-release-simd": {
+      "buildCommandComponents": [
+        "C:\\Users\\ardhi\\AppData\\Local\\Android\\Sdk\\ndk\\22.1.7171670\\ndk-build.cmd",
+        "NDK_PROJECT_PATH\u003dnull",
+        "APP_BUILD_SCRIPT\u003dD:\\dev\\UVCCamera\\libuvccamera\\src\\main\\jni\\Android.mk",
+        "NDK_APPLICATION_MK\u003dD:\\dev\\UVCCamera\\libuvccamera\\src\\main\\jni\\Application.mk",
+        "APP_ABI\u003dx86_64",
+        "NDK_ALL_ABIS\u003dx86_64",
+        "NDK_DEBUG\u003d0",
+        "APP_PLATFORM\u003dandroid-16",
+        "NDK_OUT\u003dD:/dev/UVCCamera/libuvccamera/build/intermediates/ndkBuild/release/obj",
+        "NDK_LIBS_OUT\u003dD:\\dev\\UVCCamera\\libuvccamera\\build\\intermediates\\ndkBuild\\release\\lib",
+        "D:/dev/UVCCamera/libuvccamera/build/intermediates/ndkBuild/release/obj/local/x86_64/objs/jpeg-turbo1500_static/simd/jsimd_x86_64.o"
+      ],
+      "toolchain": "toolchain-simd",
+      "abi": "simd",
+      "artifactName": "jsimd_x86_64",
+      "output": "D:\\dev\\UVCCamera\\libuvccamera\\build\\intermediates\\ndkBuild\\release\\obj\\local\\x86_64\\objs\\jpeg-turbo1500_static\\simd\\jsimd_x86_64.o"
+    },
+    "uvc-release-x86_64": {
+      "buildCommandComponents": [
+        "C:\\Users\\ardhi\\AppData\\Local\\Android\\Sdk\\ndk\\22.1.7171670\\ndk-build.cmd",
+        "NDK_PROJECT_PATH\u003dnull",
+        "APP_BUILD_SCRIPT\u003dD:\\dev\\UVCCamera\\libuvccamera\\src\\main\\jni\\Android.mk",
+        "NDK_APPLICATION_MK\u003dD:\\dev\\UVCCamera\\libuvccamera\\src\\main\\jni\\Application.mk",
+        "APP_ABI\u003dx86_64",
+        "NDK_ALL_ABIS\u003dx86_64",
+        "NDK_DEBUG\u003d0",
+        "APP_PLATFORM\u003dandroid-16",
+        "NDK_OUT\u003dD:/dev/UVCCamera/libuvccamera/build/intermediates/ndkBuild/release/obj",
+        "NDK_LIBS_OUT\u003dD:\\dev\\UVCCamera\\libuvccamera\\build\\intermediates\\ndkBuild\\release\\lib",
+        "D:/dev/UVCCamera/libuvccamera/build/intermediates/ndkBuild/release/obj/local/x86_64/libuvc.so"
+      ],
+      "toolchain": "toolchain-x86_64",
+      "abi": "x86_64",
+      "artifactName": "uvc",
+      "output": "D:\\dev\\UVCCamera\\libuvccamera\\build\\intermediates\\ndkBuild\\release\\obj\\local\\x86_64\\libuvc.so"
+    },
+    "jcomapi-release-jpeg-turbo1500_static": {
+      "buildCommandComponents": [
+        "C:\\Users\\ardhi\\AppData\\Local\\Android\\Sdk\\ndk\\22.1.7171670\\ndk-build.cmd",
+        "NDK_PROJECT_PATH\u003dnull",
+        "APP_BUILD_SCRIPT\u003dD:\\dev\\UVCCamera\\libuvccamera\\src\\main\\jni\\Android.mk",
+        "NDK_APPLICATION_MK\u003dD:\\dev\\UVCCamera\\libuvccamera\\src\\main\\jni\\Application.mk",
+        "APP_ABI\u003dx86_64",
+        "NDK_ALL_ABIS\u003dx86_64",
+        "NDK_DEBUG\u003d0",
+        "APP_PLATFORM\u003dandroid-16",
+        "NDK_OUT\u003dD:/dev/UVCCamera/libuvccamera/build/intermediates/ndkBuild/release/obj",
+        "NDK_LIBS_OUT\u003dD:\\dev\\UVCCamera\\libuvccamera\\build\\intermediates\\ndkBuild\\release\\lib",
+        "D:/dev/UVCCamera/libuvccamera/build/intermediates/ndkBuild/release/obj/local/x86_64/objs/jpeg-turbo1500_static/jcomapi.o"
+      ],
+      "toolchain": "toolchain-jpeg-turbo1500_static",
+      "abi": "jpeg-turbo1500_static",
+      "artifactName": "jcomapi",
+      "output": "D:\\dev\\UVCCamera\\libuvccamera\\build\\intermediates\\ndkBuild\\release\\obj\\local\\x86_64\\objs\\jpeg-turbo1500_static\\jcomapi.o"
+    },
+    "frame-mjpeg-release-src": {
+      "buildCommandComponents": [
+        "C:\\Users\\ardhi\\AppData\\Local\\Android\\Sdk\\ndk\\22.1.7171670\\ndk-build.cmd",
+        "NDK_PROJECT_PATH\u003dnull",
+        "APP_BUILD_SCRIPT\u003dD:\\dev\\UVCCamera\\libuvccamera\\src\\main\\jni\\Android.mk",
+        "NDK_APPLICATION_MK\u003dD:\\dev\\UVCCamera\\libuvccamera\\src\\main\\jni\\Application.mk",
+        "APP_ABI\u003dx86_64",
+        "NDK_ALL_ABIS\u003dx86_64",
+        "NDK_DEBUG\u003d0",
+        "APP_PLATFORM\u003dandroid-16",
+        "NDK_OUT\u003dD:/dev/UVCCamera/libuvccamera/build/intermediates/ndkBuild/release/obj",
+        "NDK_LIBS_OUT\u003dD:\\dev\\UVCCamera\\libuvccamera\\build\\intermediates\\ndkBuild\\release\\lib",
+        "D:/dev/UVCCamera/libuvccamera/build/intermediates/ndkBuild/release/obj/local/x86_64/objs/uvc_static/src/frame-mjpeg.o"
+      ],
+      "toolchain": "toolchain-src",
+      "abi": "src",
+      "artifactName": "frame-mjpeg",
+      "output": "D:\\dev\\UVCCamera\\libuvccamera\\build\\intermediates\\ndkBuild\\release\\obj\\local\\x86_64\\objs\\uvc_static\\src\\frame-mjpeg.o"
+    },
+    "jdatasrc-release-jpeg-turbo1500_static": {
+      "buildCommandComponents": [
+        "C:\\Users\\ardhi\\AppData\\Local\\Android\\Sdk\\ndk\\22.1.7171670\\ndk-build.cmd",
+        "NDK_PROJECT_PATH\u003dnull",
+        "APP_BUILD_SCRIPT\u003dD:\\dev\\UVCCamera\\libuvccamera\\src\\main\\jni\\Android.mk",
+        "NDK_APPLICATION_MK\u003dD:\\dev\\UVCCamera\\libuvccamera\\src\\main\\jni\\Application.mk",
+        "APP_ABI\u003dx86_64",
+        "NDK_ALL_ABIS\u003dx86_64",
+        "NDK_DEBUG\u003d0",
+        "APP_PLATFORM\u003dandroid-16",
+        "NDK_OUT\u003dD:/dev/UVCCamera/libuvccamera/build/intermediates/ndkBuild/release/obj",
+        "NDK_LIBS_OUT\u003dD:\\dev\\UVCCamera\\libuvccamera\\build\\intermediates\\ndkBuild\\release\\lib",
+        "D:/dev/UVCCamera/libuvccamera/build/intermediates/ndkBuild/release/obj/local/x86_64/objs/jpeg-turbo1500_static/jdatasrc.o"
+      ],
+      "toolchain": "toolchain-jpeg-turbo1500_static",
+      "abi": "jpeg-turbo1500_static",
+      "artifactName": "jdatasrc",
+      "output": "D:\\dev\\UVCCamera\\libuvccamera\\build\\intermediates\\ndkBuild\\release\\obj\\local\\x86_64\\objs\\jpeg-turbo1500_static\\jdatasrc.o"
+    },
+    "jddctmgr-release-jpeg-turbo1500_static": {
+      "buildCommandComponents": [
+        "C:\\Users\\ardhi\\AppData\\Local\\Android\\Sdk\\ndk\\22.1.7171670\\ndk-build.cmd",
+        "NDK_PROJECT_PATH\u003dnull",
+        "APP_BUILD_SCRIPT\u003dD:\\dev\\UVCCamera\\libuvccamera\\src\\main\\jni\\Android.mk",
+        "NDK_APPLICATION_MK\u003dD:\\dev\\UVCCamera\\libuvccamera\\src\\main\\jni\\Application.mk",
+        "APP_ABI\u003dx86_64",
+        "NDK_ALL_ABIS\u003dx86_64",
+        "NDK_DEBUG\u003d0",
+        "APP_PLATFORM\u003dandroid-16",
+        "NDK_OUT\u003dD:/dev/UVCCamera/libuvccamera/build/intermediates/ndkBuild/release/obj",
+        "NDK_LIBS_OUT\u003dD:\\dev\\UVCCamera\\libuvccamera\\build\\intermediates\\ndkBuild\\release\\lib",
+        "D:/dev/UVCCamera/libuvccamera/build/intermediates/ndkBuild/release/obj/local/x86_64/objs/jpeg-turbo1500_static/jddctmgr.o"
+      ],
+      "toolchain": "toolchain-jpeg-turbo1500_static",
+      "abi": "jpeg-turbo1500_static",
+      "artifactName": "jddctmgr",
+      "output": "D:\\dev\\UVCCamera\\libuvccamera\\build\\intermediates\\ndkBuild\\release\\obj\\local\\x86_64\\objs\\jpeg-turbo1500_static\\jddctmgr.o"
+    },
+    "poll_posix-release-os": {
+      "buildCommandComponents": [
+        "C:\\Users\\ardhi\\AppData\\Local\\Android\\Sdk\\ndk\\22.1.7171670\\ndk-build.cmd",
+        "NDK_PROJECT_PATH\u003dnull",
+        "APP_BUILD_SCRIPT\u003dD:\\dev\\UVCCamera\\libuvccamera\\src\\main\\jni\\Android.mk",
+        "NDK_APPLICATION_MK\u003dD:\\dev\\UVCCamera\\libuvccamera\\src\\main\\jni\\Application.mk",
+        "APP_ABI\u003dx86_64",
+        "NDK_ALL_ABIS\u003dx86_64",
+        "NDK_DEBUG\u003d0",
+        "APP_PLATFORM\u003dandroid-16",
+        "NDK_OUT\u003dD:/dev/UVCCamera/libuvccamera/build/intermediates/ndkBuild/release/obj",
+        "NDK_LIBS_OUT\u003dD:\\dev\\UVCCamera\\libuvccamera\\build\\intermediates\\ndkBuild\\release\\lib",
+        "D:/dev/UVCCamera/libuvccamera/build/intermediates/ndkBuild/release/obj/local/x86_64/objs/usb100_static/libusb/os/poll_posix.o"
+      ],
+      "toolchain": "toolchain-os",
+      "abi": "os",
+      "artifactName": "poll_posix",
+      "output": "D:\\dev\\UVCCamera\\libuvccamera\\build\\intermediates\\ndkBuild\\release\\obj\\local\\x86_64\\objs\\usb100_static\\libusb\\os\\poll_posix.o"
+    },
+    "jidctint-release-jpeg-turbo1500_static": {
+      "buildCommandComponents": [
+        "C:\\Users\\ardhi\\AppData\\Local\\Android\\Sdk\\ndk\\22.1.7171670\\ndk-build.cmd",
+        "NDK_PROJECT_PATH\u003dnull",
+        "APP_BUILD_SCRIPT\u003dD:\\dev\\UVCCamera\\libuvccamera\\src\\main\\jni\\Android.mk",
+        "NDK_APPLICATION_MK\u003dD:\\dev\\UVCCamera\\libuvccamera\\src\\main\\jni\\Application.mk",
+        "APP_ABI\u003dx86_64",
+        "NDK_ALL_ABIS\u003dx86_64",
+        "NDK_DEBUG\u003d0",
+        "APP_PLATFORM\u003dandroid-16",
+        "NDK_OUT\u003dD:/dev/UVCCamera/libuvccamera/build/intermediates/ndkBuild/release/obj",
+        "NDK_LIBS_OUT\u003dD:\\dev\\UVCCamera\\libuvccamera\\build\\intermediates\\ndkBuild\\release\\lib",
+        "D:/dev/UVCCamera/libuvccamera/build/intermediates/ndkBuild/release/obj/local/x86_64/objs/jpeg-turbo1500_static/jidctint.o"
+      ],
+      "toolchain": "toolchain-jpeg-turbo1500_static",
+      "abi": "jpeg-turbo1500_static",
+      "artifactName": "jidctint",
+      "output": "D:\\dev\\UVCCamera\\libuvccamera\\build\\intermediates\\ndkBuild\\release\\obj\\local\\x86_64\\objs\\jpeg-turbo1500_static\\jidctint.o"
+    },
+    "jchuff-release-jpeg-turbo1500_static": {
+      "buildCommandComponents": [
+        "C:\\Users\\ardhi\\AppData\\Local\\Android\\Sdk\\ndk\\22.1.7171670\\ndk-build.cmd",
+        "NDK_PROJECT_PATH\u003dnull",
+        "APP_BUILD_SCRIPT\u003dD:\\dev\\UVCCamera\\libuvccamera\\src\\main\\jni\\Android.mk",
+        "NDK_APPLICATION_MK\u003dD:\\dev\\UVCCamera\\libuvccamera\\src\\main\\jni\\Application.mk",
+        "APP_ABI\u003dx86_64",
+        "NDK_ALL_ABIS\u003dx86_64",
+        "NDK_DEBUG\u003d0",
+        "APP_PLATFORM\u003dandroid-16",
+        "NDK_OUT\u003dD:/dev/UVCCamera/libuvccamera/build/intermediates/ndkBuild/release/obj",
+        "NDK_LIBS_OUT\u003dD:\\dev\\UVCCamera\\libuvccamera\\build\\intermediates\\ndkBuild\\release\\lib",
+        "D:/dev/UVCCamera/libuvccamera/build/intermediates/ndkBuild/release/obj/local/x86_64/objs/jpeg-turbo1500_static/jchuff.o"
+      ],
+      "toolchain": "toolchain-jpeg-turbo1500_static",
+      "abi": "jpeg-turbo1500_static",
+      "artifactName": "jchuff",
+      "output": "D:\\dev\\UVCCamera\\libuvccamera\\build\\intermediates\\ndkBuild\\release\\obj\\local\\x86_64\\objs\\jpeg-turbo1500_static\\jchuff.o"
+    },
+    "diag-release-src": {
+      "buildCommandComponents": [
+        "C:\\Users\\ardhi\\AppData\\Local\\Android\\Sdk\\ndk\\22.1.7171670\\ndk-build.cmd",
+        "NDK_PROJECT_PATH\u003dnull",
+        "APP_BUILD_SCRIPT\u003dD:\\dev\\UVCCamera\\libuvccamera\\src\\main\\jni\\Android.mk",
+        "NDK_APPLICATION_MK\u003dD:\\dev\\UVCCamera\\libuvccamera\\src\\main\\jni\\Application.mk",
+        "APP_ABI\u003dx86_64",
+        "NDK_ALL_ABIS\u003dx86_64",
+        "NDK_DEBUG\u003d0",
+        "APP_PLATFORM\u003dandroid-16",
+        "NDK_OUT\u003dD:/dev/UVCCamera/libuvccamera/build/intermediates/ndkBuild/release/obj",
+        "NDK_LIBS_OUT\u003dD:\\dev\\UVCCamera\\libuvccamera\\build\\intermediates\\ndkBuild\\release\\lib",
+        "D:/dev/UVCCamera/libuvccamera/build/intermediates/ndkBuild/release/obj/local/x86_64/objs/uvc_static/src/diag.o"
+      ],
+      "toolchain": "toolchain-src",
+      "abi": "src",
+      "artifactName": "diag",
+      "output": "D:\\dev\\UVCCamera\\libuvccamera\\build\\intermediates\\ndkBuild\\release\\obj\\local\\x86_64\\objs\\uvc_static\\src\\diag.o"
+    },
+    "UVCCamera-release-x86_64": {
+      "buildCommandComponents": [
+        "C:\\Users\\ardhi\\AppData\\Local\\Android\\Sdk\\ndk\\22.1.7171670\\ndk-build.cmd",
+        "NDK_PROJECT_PATH\u003dnull",
+        "APP_BUILD_SCRIPT\u003dD:\\dev\\UVCCamera\\libuvccamera\\src\\main\\jni\\Android.mk",
+        "NDK_APPLICATION_MK\u003dD:\\dev\\UVCCamera\\libuvccamera\\src\\main\\jni\\Application.mk",
+        "APP_ABI\u003dx86_64",
+        "NDK_ALL_ABIS\u003dx86_64",
+        "NDK_DEBUG\u003d0",
+        "APP_PLATFORM\u003dandroid-16",
+        "NDK_OUT\u003dD:/dev/UVCCamera/libuvccamera/build/intermediates/ndkBuild/release/obj",
+        "NDK_LIBS_OUT\u003dD:\\dev\\UVCCamera\\libuvccamera\\build\\intermediates\\ndkBuild\\release\\lib",
+        "D:/dev/UVCCamera/libuvccamera/build/intermediates/ndkBuild/release/obj/local/x86_64/libUVCCamera.so"
+      ],
+      "toolchain": "toolchain-x86_64",
+      "abi": "x86_64",
+      "artifactName": "UVCCamera",
+      "output": "D:\\dev\\UVCCamera\\libuvccamera\\build\\intermediates\\ndkBuild\\release\\obj\\local\\x86_64\\libUVCCamera.so"
+    },
+    "jfdctint-release-jpeg-turbo1500_static": {
+      "buildCommandComponents": [
+        "C:\\Users\\ardhi\\AppData\\Local\\Android\\Sdk\\ndk\\22.1.7171670\\ndk-build.cmd",
+        "NDK_PROJECT_PATH\u003dnull",
+        "APP_BUILD_SCRIPT\u003dD:\\dev\\UVCCamera\\libuvccamera\\src\\main\\jni\\Android.mk",
+        "NDK_APPLICATION_MK\u003dD:\\dev\\UVCCamera\\libuvccamera\\src\\main\\jni\\Application.mk",
+        "APP_ABI\u003dx86_64",
+        "NDK_ALL_ABIS\u003dx86_64",
+        "NDK_DEBUG\u003d0",
+        "APP_PLATFORM\u003dandroid-16",
+        "NDK_OUT\u003dD:/dev/UVCCamera/libuvccamera/build/intermediates/ndkBuild/release/obj",
+        "NDK_LIBS_OUT\u003dD:\\dev\\UVCCamera\\libuvccamera\\build\\intermediates\\ndkBuild\\release\\lib",
+        "D:/dev/UVCCamera/libuvccamera/build/intermediates/ndkBuild/release/obj/local/x86_64/objs/jpeg-turbo1500_static/jfdctint.o"
+      ],
+      "toolchain": "toolchain-jpeg-turbo1500_static",
+      "abi": "jpeg-turbo1500_static",
+      "artifactName": "jfdctint",
+      "output": "D:\\dev\\UVCCamera\\libuvccamera\\build\\intermediates\\ndkBuild\\release\\obj\\local\\x86_64\\objs\\jpeg-turbo1500_static\\jfdctint.o"
+    },
+    "jdphuff-release-jpeg-turbo1500_static": {
+      "buildCommandComponents": [
+        "C:\\Users\\ardhi\\AppData\\Local\\Android\\Sdk\\ndk\\22.1.7171670\\ndk-build.cmd",
+        "NDK_PROJECT_PATH\u003dnull",
+        "APP_BUILD_SCRIPT\u003dD:\\dev\\UVCCamera\\libuvccamera\\src\\main\\jni\\Android.mk",
+        "NDK_APPLICATION_MK\u003dD:\\dev\\UVCCamera\\libuvccamera\\src\\main\\jni\\Application.mk",
+        "APP_ABI\u003dx86_64",
+        "NDK_ALL_ABIS\u003dx86_64",
+        "NDK_DEBUG\u003d0",
+        "APP_PLATFORM\u003dandroid-16",
+        "NDK_OUT\u003dD:/dev/UVCCamera/libuvccamera/build/intermediates/ndkBuild/release/obj",
+        "NDK_LIBS_OUT\u003dD:\\dev\\UVCCamera\\libuvccamera\\build\\intermediates\\ndkBuild\\release\\lib",
+        "D:/dev/UVCCamera/libuvccamera/build/intermediates/ndkBuild/release/obj/local/x86_64/objs/jpeg-turbo1500_static/jdphuff.o"
+      ],
+      "toolchain": "toolchain-jpeg-turbo1500_static",
+      "abi": "jpeg-turbo1500_static",
+      "artifactName": "jdphuff",
+      "output": "D:\\dev\\UVCCamera\\libuvccamera\\build\\intermediates\\ndkBuild\\release\\obj\\local\\x86_64\\objs\\jpeg-turbo1500_static\\jdphuff.o"
+    },
+    "io-release-libusb": {
+      "buildCommandComponents": [
+        "C:\\Users\\ardhi\\AppData\\Local\\Android\\Sdk\\ndk\\22.1.7171670\\ndk-build.cmd",
+        "NDK_PROJECT_PATH\u003dnull",
+        "APP_BUILD_SCRIPT\u003dD:\\dev\\UVCCamera\\libuvccamera\\src\\main\\jni\\Android.mk",
+        "NDK_APPLICATION_MK\u003dD:\\dev\\UVCCamera\\libuvccamera\\src\\main\\jni\\Application.mk",
+        "APP_ABI\u003dx86_64",
+        "NDK_ALL_ABIS\u003dx86_64",
+        "NDK_DEBUG\u003d0",
+        "APP_PLATFORM\u003dandroid-16",
+        "NDK_OUT\u003dD:/dev/UVCCamera/libuvccamera/build/intermediates/ndkBuild/release/obj",
+        "NDK_LIBS_OUT\u003dD:\\dev\\UVCCamera\\libuvccamera\\build\\intermediates\\ndkBuild\\release\\lib",
+        "D:/dev/UVCCamera/libuvccamera/build/intermediates/ndkBuild/release/obj/local/x86_64/objs/usb100_static/libusb/io.o"
+      ],
+      "toolchain": "toolchain-libusb",
+      "abi": "libusb",
+      "artifactName": "io",
+      "output": "D:\\dev\\UVCCamera\\libuvccamera\\build\\intermediates\\ndkBuild\\release\\obj\\local\\x86_64\\objs\\usb100_static\\libusb\\io.o"
+    },
+    "android_netlink-release-os": {
+      "buildCommandComponents": [
+        "C:\\Users\\ardhi\\AppData\\Local\\Android\\Sdk\\ndk\\22.1.7171670\\ndk-build.cmd",
+        "NDK_PROJECT_PATH\u003dnull",
+        "APP_BUILD_SCRIPT\u003dD:\\dev\\UVCCamera\\libuvccamera\\src\\main\\jni\\Android.mk",
+        "NDK_APPLICATION_MK\u003dD:\\dev\\UVCCamera\\libuvccamera\\src\\main\\jni\\Application.mk",
+        "APP_ABI\u003dx86_64",
+        "NDK_ALL_ABIS\u003dx86_64",
+        "NDK_DEBUG\u003d0",
+        "APP_PLATFORM\u003dandroid-16",
+        "NDK_OUT\u003dD:/dev/UVCCamera/libuvccamera/build/intermediates/ndkBuild/release/obj",
+        "NDK_LIBS_OUT\u003dD:\\dev\\UVCCamera\\libuvccamera\\build\\intermediates\\ndkBuild\\release\\lib",
+        "D:/dev/UVCCamera/libuvccamera/build/intermediates/ndkBuild/release/obj/local/x86_64/objs/usb100_static/libusb/os/android_netlink.o"
+      ],
+      "toolchain": "toolchain-os",
+      "abi": "os",
+      "artifactName": "android_netlink",
+      "output": "D:\\dev\\UVCCamera\\libuvccamera\\build\\intermediates\\ndkBuild\\release\\obj\\local\\x86_64\\objs\\usb100_static\\libusb\\os\\android_netlink.o"
+    },
+    "jcapimin-release-jpeg-turbo1500_static": {
+      "buildCommandComponents": [
+        "C:\\Users\\ardhi\\AppData\\Local\\Android\\Sdk\\ndk\\22.1.7171670\\ndk-build.cmd",
+        "NDK_PROJECT_PATH\u003dnull",
+        "APP_BUILD_SCRIPT\u003dD:\\dev\\UVCCamera\\libuvccamera\\src\\main\\jni\\Android.mk",
+        "NDK_APPLICATION_MK\u003dD:\\dev\\UVCCamera\\libuvccamera\\src\\main\\jni\\Application.mk",
+        "APP_ABI\u003dx86_64",
+        "NDK_ALL_ABIS\u003dx86_64",
+        "NDK_DEBUG\u003d0",
+        "APP_PLATFORM\u003dandroid-16",
+        "NDK_OUT\u003dD:/dev/UVCCamera/libuvccamera/build/intermediates/ndkBuild/release/obj",
+        "NDK_LIBS_OUT\u003dD:\\dev\\UVCCamera\\libuvccamera\\build\\intermediates\\ndkBuild\\release\\lib",
+        "D:/dev/UVCCamera/libuvccamera/build/intermediates/ndkBuild/release/obj/local/x86_64/objs/jpeg-turbo1500_static/jcapimin.o"
+      ],
+      "toolchain": "toolchain-jpeg-turbo1500_static",
+      "abi": "jpeg-turbo1500_static",
+      "artifactName": "jcapimin",
+      "output": "D:\\dev\\UVCCamera\\libuvccamera\\build\\intermediates\\ndkBuild\\release\\obj\\local\\x86_64\\objs\\jpeg-turbo1500_static\\jcapimin.o"
+    },
+    "hotplug-release-libusb": {
+      "buildCommandComponents": [
+        "C:\\Users\\ardhi\\AppData\\Local\\Android\\Sdk\\ndk\\22.1.7171670\\ndk-build.cmd",
+        "NDK_PROJECT_PATH\u003dnull",
+        "APP_BUILD_SCRIPT\u003dD:\\dev\\UVCCamera\\libuvccamera\\src\\main\\jni\\Android.mk",
+        "NDK_APPLICATION_MK\u003dD:\\dev\\UVCCamera\\libuvccamera\\src\\main\\jni\\Application.mk",
+        "APP_ABI\u003dx86_64",
+        "NDK_ALL_ABIS\u003dx86_64",
+        "NDK_DEBUG\u003d0",
+        "APP_PLATFORM\u003dandroid-16",
+        "NDK_OUT\u003dD:/dev/UVCCamera/libuvccamera/build/intermediates/ndkBuild/release/obj",
+        "NDK_LIBS_OUT\u003dD:\\dev\\UVCCamera\\libuvccamera\\build\\intermediates\\ndkBuild\\release\\lib",
+        "D:/dev/UVCCamera/libuvccamera/build/intermediates/ndkBuild/release/obj/local/x86_64/objs/usb100_static/libusb/hotplug.o"
+      ],
+      "toolchain": "toolchain-libusb",
+      "abi": "libusb",
+      "artifactName": "hotplug",
+      "output": "D:\\dev\\UVCCamera\\libuvccamera\\build\\intermediates\\ndkBuild\\release\\obj\\local\\x86_64\\objs\\usb100_static\\libusb\\hotplug.o"
+    },
+    "jdtrans-release-jpeg-turbo1500_static": {
+      "buildCommandComponents": [
+        "C:\\Users\\ardhi\\AppData\\Local\\Android\\Sdk\\ndk\\22.1.7171670\\ndk-build.cmd",
+        "NDK_PROJECT_PATH\u003dnull",
+        "APP_BUILD_SCRIPT\u003dD:\\dev\\UVCCamera\\libuvccamera\\src\\main\\jni\\Android.mk",
+        "NDK_APPLICATION_MK\u003dD:\\dev\\UVCCamera\\libuvccamera\\src\\main\\jni\\Application.mk",
+        "APP_ABI\u003dx86_64",
+        "NDK_ALL_ABIS\u003dx86_64",
+        "NDK_DEBUG\u003d0",
+        "APP_PLATFORM\u003dandroid-16",
+        "NDK_OUT\u003dD:/dev/UVCCamera/libuvccamera/build/intermediates/ndkBuild/release/obj",
+        "NDK_LIBS_OUT\u003dD:\\dev\\UVCCamera\\libuvccamera\\build\\intermediates\\ndkBuild\\release\\lib",
+        "D:/dev/UVCCamera/libuvccamera/build/intermediates/ndkBuild/release/obj/local/x86_64/objs/jpeg-turbo1500_static/jdtrans.o"
+      ],
+      "toolchain": "toolchain-jpeg-turbo1500_static",
+      "abi": "jpeg-turbo1500_static",
+      "artifactName": "jdtrans",
+      "output": "D:\\dev\\UVCCamera\\libuvccamera\\build\\intermediates\\ndkBuild\\release\\obj\\local\\x86_64\\objs\\jpeg-turbo1500_static\\jdtrans.o"
+    },
+    "jidctred-release-jpeg-turbo1500_static": {
+      "buildCommandComponents": [
+        "C:\\Users\\ardhi\\AppData\\Local\\Android\\Sdk\\ndk\\22.1.7171670\\ndk-build.cmd",
+        "NDK_PROJECT_PATH\u003dnull",
+        "APP_BUILD_SCRIPT\u003dD:\\dev\\UVCCamera\\libuvccamera\\src\\main\\jni\\Android.mk",
+        "NDK_APPLICATION_MK\u003dD:\\dev\\UVCCamera\\libuvccamera\\src\\main\\jni\\Application.mk",
+        "APP_ABI\u003dx86_64",
+        "NDK_ALL_ABIS\u003dx86_64",
+        "NDK_DEBUG\u003d0",
+        "APP_PLATFORM\u003dandroid-16",
+        "NDK_OUT\u003dD:/dev/UVCCamera/libuvccamera/build/intermediates/ndkBuild/release/obj",
+        "NDK_LIBS_OUT\u003dD:\\dev\\UVCCamera\\libuvccamera\\build\\intermediates\\ndkBuild\\release\\lib",
+        "D:/dev/UVCCamera/libuvccamera/build/intermediates/ndkBuild/release/obj/local/x86_64/objs/jpeg-turbo1500_static/jidctred.o"
+      ],
+      "toolchain": "toolchain-jpeg-turbo1500_static",
+      "abi": "jpeg-turbo1500_static",
+      "artifactName": "jidctred",
+      "output": "D:\\dev\\UVCCamera\\libuvccamera\\build\\intermediates\\ndkBuild\\release\\obj\\local\\x86_64\\objs\\jpeg-turbo1500_static\\jidctred.o"
+    },
+    "jaricom-release-jpeg-turbo1500_static": {
+      "buildCommandComponents": [
+        "C:\\Users\\ardhi\\AppData\\Local\\Android\\Sdk\\ndk\\22.1.7171670\\ndk-build.cmd",
+        "NDK_PROJECT_PATH\u003dnull",
+        "APP_BUILD_SCRIPT\u003dD:\\dev\\UVCCamera\\libuvccamera\\src\\main\\jni\\Android.mk",
+        "NDK_APPLICATION_MK\u003dD:\\dev\\UVCCamera\\libuvccamera\\src\\main\\jni\\Application.mk",
+        "APP_ABI\u003dx86_64",
+        "NDK_ALL_ABIS\u003dx86_64",
+        "NDK_DEBUG\u003d0",
+        "APP_PLATFORM\u003dandroid-16",
+        "NDK_OUT\u003dD:/dev/UVCCamera/libuvccamera/build/intermediates/ndkBuild/release/obj",
+        "NDK_LIBS_OUT\u003dD:\\dev\\UVCCamera\\libuvccamera\\build\\intermediates\\ndkBuild\\release\\lib",
+        "D:/dev/UVCCamera/libuvccamera/build/intermediates/ndkBuild/release/obj/local/x86_64/objs/jpeg-turbo1500_static/jaricom.o"
+      ],
+      "toolchain": "toolchain-jpeg-turbo1500_static",
+      "abi": "jpeg-turbo1500_static",
+      "artifactName": "jaricom",
+      "output": "D:\\dev\\UVCCamera\\libuvccamera\\build\\intermediates\\ndkBuild\\release\\obj\\local\\x86_64\\objs\\jpeg-turbo1500_static\\jaricom.o"
+    },
+    "jcapistd-release-jpeg-turbo1500_static": {
+      "buildCommandComponents": [
+        "C:\\Users\\ardhi\\AppData\\Local\\Android\\Sdk\\ndk\\22.1.7171670\\ndk-build.cmd",
+        "NDK_PROJECT_PATH\u003dnull",
+        "APP_BUILD_SCRIPT\u003dD:\\dev\\UVCCamera\\libuvccamera\\src\\main\\jni\\Android.mk",
+        "NDK_APPLICATION_MK\u003dD:\\dev\\UVCCamera\\libuvccamera\\src\\main\\jni\\Application.mk",
+        "APP_ABI\u003dx86_64",
+        "NDK_ALL_ABIS\u003dx86_64",
+        "NDK_DEBUG\u003d0",
+        "APP_PLATFORM\u003dandroid-16",
+        "NDK_OUT\u003dD:/dev/UVCCamera/libuvccamera/build/intermediates/ndkBuild/release/obj",
+        "NDK_LIBS_OUT\u003dD:\\dev\\UVCCamera\\libuvccamera\\build\\intermediates\\ndkBuild\\release\\lib",
+        "D:/dev/UVCCamera/libuvccamera/build/intermediates/ndkBuild/release/obj/local/x86_64/objs/jpeg-turbo1500_static/jcapistd.o"
+      ],
+      "toolchain": "toolchain-jpeg-turbo1500_static",
+      "abi": "jpeg-turbo1500_static",
+      "artifactName": "jcapistd",
+      "output": "D:\\dev\\UVCCamera\\libuvccamera\\build\\intermediates\\ndkBuild\\release\\obj\\local\\x86_64\\objs\\jpeg-turbo1500_static\\jcapistd.o"
+    },
+    "jerror-release-jpeg-turbo1500_static": {
+      "buildCommandComponents": [
+        "C:\\Users\\ardhi\\AppData\\Local\\Android\\Sdk\\ndk\\22.1.7171670\\ndk-build.cmd",
+        "NDK_PROJECT_PATH\u003dnull",
+        "APP_BUILD_SCRIPT\u003dD:\\dev\\UVCCamera\\libuvccamera\\src\\main\\jni\\Android.mk",
+        "NDK_APPLICATION_MK\u003dD:\\dev\\UVCCamera\\libuvccamera\\src\\main\\jni\\Application.mk",
+        "APP_ABI\u003dx86_64",
+        "NDK_ALL_ABIS\u003dx86_64",
+        "NDK_DEBUG\u003d0",
+        "APP_PLATFORM\u003dandroid-16",
+        "NDK_OUT\u003dD:/dev/UVCCamera/libuvccamera/build/intermediates/ndkBuild/release/obj",
+        "NDK_LIBS_OUT\u003dD:\\dev\\UVCCamera\\libuvccamera\\build\\intermediates\\ndkBuild\\release\\lib",
+        "D:/dev/UVCCamera/libuvccamera/build/intermediates/ndkBuild/release/obj/local/x86_64/objs/jpeg-turbo1500_static/jerror.o"
+      ],
+      "toolchain": "toolchain-jpeg-turbo1500_static",
+      "abi": "jpeg-turbo1500_static",
+      "artifactName": "jerror",
+      "output": "D:\\dev\\UVCCamera\\libuvccamera\\build\\intermediates\\ndkBuild\\release\\obj\\local\\x86_64\\objs\\jpeg-turbo1500_static\\jerror.o"
+    },
+    "init-release-src": {
+      "buildCommandComponents": [
+        "C:\\Users\\ardhi\\AppData\\Local\\Android\\Sdk\\ndk\\22.1.7171670\\ndk-build.cmd",
+        "NDK_PROJECT_PATH\u003dnull",
+        "APP_BUILD_SCRIPT\u003dD:\\dev\\UVCCamera\\libuvccamera\\src\\main\\jni\\Android.mk",
+        "NDK_APPLICATION_MK\u003dD:\\dev\\UVCCamera\\libuvccamera\\src\\main\\jni\\Application.mk",
+        "APP_ABI\u003dx86_64",
+        "NDK_ALL_ABIS\u003dx86_64",
+        "NDK_DEBUG\u003d0",
+        "APP_PLATFORM\u003dandroid-16",
+        "NDK_OUT\u003dD:/dev/UVCCamera/libuvccamera/build/intermediates/ndkBuild/release/obj",
+        "NDK_LIBS_OUT\u003dD:\\dev\\UVCCamera\\libuvccamera\\build\\intermediates\\ndkBuild\\release\\lib",
+        "D:/dev/UVCCamera/libuvccamera/build/intermediates/ndkBuild/release/obj/local/x86_64/objs/uvc_static/src/init.o"
+      ],
+      "toolchain": "toolchain-src",
+      "abi": "src",
+      "artifactName": "init",
+      "output": "D:\\dev\\UVCCamera\\libuvccamera\\build\\intermediates\\ndkBuild\\release\\obj\\local\\x86_64\\objs\\uvc_static\\src\\init.o"
+    },
+    "jdsample-release-jpeg-turbo1500_static": {
+      "buildCommandComponents": [
+        "C:\\Users\\ardhi\\AppData\\Local\\Android\\Sdk\\ndk\\22.1.7171670\\ndk-build.cmd",
+        "NDK_PROJECT_PATH\u003dnull",
+        "APP_BUILD_SCRIPT\u003dD:\\dev\\UVCCamera\\libuvccamera\\src\\main\\jni\\Android.mk",
+        "NDK_APPLICATION_MK\u003dD:\\dev\\UVCCamera\\libuvccamera\\src\\main\\jni\\Application.mk",
+        "APP_ABI\u003dx86_64",
+        "NDK_ALL_ABIS\u003dx86_64",
+        "NDK_DEBUG\u003d0",
+        "APP_PLATFORM\u003dandroid-16",
+        "NDK_OUT\u003dD:/dev/UVCCamera/libuvccamera/build/intermediates/ndkBuild/release/obj",
+        "NDK_LIBS_OUT\u003dD:\\dev\\UVCCamera\\libuvccamera\\build\\intermediates\\ndkBuild\\release\\lib",
+        "D:/dev/UVCCamera/libuvccamera/build/intermediates/ndkBuild/release/obj/local/x86_64/objs/jpeg-turbo1500_static/jdsample.o"
+      ],
+      "toolchain": "toolchain-jpeg-turbo1500_static",
+      "abi": "jpeg-turbo1500_static",
+      "artifactName": "jdsample",
+      "output": "D:\\dev\\UVCCamera\\libuvccamera\\build\\intermediates\\ndkBuild\\release\\obj\\local\\x86_64\\objs\\jpeg-turbo1500_static\\jdsample.o"
+    },
+    "jutils-release-jpeg-turbo1500_static": {
+      "buildCommandComponents": [
+        "C:\\Users\\ardhi\\AppData\\Local\\Android\\Sdk\\ndk\\22.1.7171670\\ndk-build.cmd",
+        "NDK_PROJECT_PATH\u003dnull",
+        "APP_BUILD_SCRIPT\u003dD:\\dev\\UVCCamera\\libuvccamera\\src\\main\\jni\\Android.mk",
+        "NDK_APPLICATION_MK\u003dD:\\dev\\UVCCamera\\libuvccamera\\src\\main\\jni\\Application.mk",
+        "APP_ABI\u003dx86_64",
+        "NDK_ALL_ABIS\u003dx86_64",
+        "NDK_DEBUG\u003d0",
+        "APP_PLATFORM\u003dandroid-16",
+        "NDK_OUT\u003dD:/dev/UVCCamera/libuvccamera/build/intermediates/ndkBuild/release/obj",
+        "NDK_LIBS_OUT\u003dD:\\dev\\UVCCamera\\libuvccamera\\build\\intermediates\\ndkBuild\\release\\lib",
+        "D:/dev/UVCCamera/libuvccamera/build/intermediates/ndkBuild/release/obj/local/x86_64/objs/jpeg-turbo1500_static/jutils.o"
+      ],
+      "toolchain": "toolchain-jpeg-turbo1500_static",
+      "abi": "jpeg-turbo1500_static",
+      "artifactName": "jutils",
+      "output": "D:\\dev\\UVCCamera\\libuvccamera\\build\\intermediates\\ndkBuild\\release\\obj\\local\\x86_64\\objs\\jpeg-turbo1500_static\\jutils.o"
+    },
+    "device-release-src": {
+      "buildCommandComponents": [
+        "C:\\Users\\ardhi\\AppData\\Local\\Android\\Sdk\\ndk\\22.1.7171670\\ndk-build.cmd",
+        "NDK_PROJECT_PATH\u003dnull",
+        "APP_BUILD_SCRIPT\u003dD:\\dev\\UVCCamera\\libuvccamera\\src\\main\\jni\\Android.mk",
+        "NDK_APPLICATION_MK\u003dD:\\dev\\UVCCamera\\libuvccamera\\src\\main\\jni\\Application.mk",
+        "APP_ABI\u003dx86_64",
+        "NDK_ALL_ABIS\u003dx86_64",
+        "NDK_DEBUG\u003d0",
+        "APP_PLATFORM\u003dandroid-16",
+        "NDK_OUT\u003dD:/dev/UVCCamera/libuvccamera/build/intermediates/ndkBuild/release/obj",
+        "NDK_LIBS_OUT\u003dD:\\dev\\UVCCamera\\libuvccamera\\build\\intermediates\\ndkBuild\\release\\lib",
+        "D:/dev/UVCCamera/libuvccamera/build/intermediates/ndkBuild/release/obj/local/x86_64/objs/uvc_static/src/device.o"
+      ],
+      "toolchain": "toolchain-src",
+      "abi": "src",
+      "artifactName": "device",
+      "output": "D:\\dev\\UVCCamera\\libuvccamera\\build\\intermediates\\ndkBuild\\release\\obj\\local\\x86_64\\objs\\uvc_static\\src\\device.o"
+    },
+    "jmemnobs-release-jpeg-turbo1500_static": {
+      "buildCommandComponents": [
+        "C:\\Users\\ardhi\\AppData\\Local\\Android\\Sdk\\ndk\\22.1.7171670\\ndk-build.cmd",
+        "NDK_PROJECT_PATH\u003dnull",
+        "APP_BUILD_SCRIPT\u003dD:\\dev\\UVCCamera\\libuvccamera\\src\\main\\jni\\Android.mk",
+        "NDK_APPLICATION_MK\u003dD:\\dev\\UVCCamera\\libuvccamera\\src\\main\\jni\\Application.mk",
+        "APP_ABI\u003dx86_64",
+        "NDK_ALL_ABIS\u003dx86_64",
+        "NDK_DEBUG\u003d0",
+        "APP_PLATFORM\u003dandroid-16",
+        "NDK_OUT\u003dD:/dev/UVCCamera/libuvccamera/build/intermediates/ndkBuild/release/obj",
+        "NDK_LIBS_OUT\u003dD:\\dev\\UVCCamera\\libuvccamera\\build\\intermediates\\ndkBuild\\release\\lib",
+        "D:/dev/UVCCamera/libuvccamera/build/intermediates/ndkBuild/release/obj/local/x86_64/objs/jpeg-turbo1500_static/jmemnobs.o"
+      ],
+      "toolchain": "toolchain-jpeg-turbo1500_static",
+      "abi": "jpeg-turbo1500_static",
+      "artifactName": "jmemnobs",
+      "output": "D:\\dev\\UVCCamera\\libuvccamera\\build\\intermediates\\ndkBuild\\release\\obj\\local\\x86_64\\objs\\jpeg-turbo1500_static\\jmemnobs.o"
+    },
+    "jdmainct-release-jpeg-turbo1500_static": {
+      "buildCommandComponents": [
+        "C:\\Users\\ardhi\\AppData\\Local\\Android\\Sdk\\ndk\\22.1.7171670\\ndk-build.cmd",
+        "NDK_PROJECT_PATH\u003dnull",
+        "APP_BUILD_SCRIPT\u003dD:\\dev\\UVCCamera\\libuvccamera\\src\\main\\jni\\Android.mk",
+        "NDK_APPLICATION_MK\u003dD:\\dev\\UVCCamera\\libuvccamera\\src\\main\\jni\\Application.mk",
+        "APP_ABI\u003dx86_64",
+        "NDK_ALL_ABIS\u003dx86_64",
+        "NDK_DEBUG\u003d0",
+        "APP_PLATFORM\u003dandroid-16",
+        "NDK_OUT\u003dD:/dev/UVCCamera/libuvccamera/build/intermediates/ndkBuild/release/obj",
+        "NDK_LIBS_OUT\u003dD:\\dev\\UVCCamera\\libuvccamera\\build\\intermediates\\ndkBuild\\release\\lib",
+        "D:/dev/UVCCamera/libuvccamera/build/intermediates/ndkBuild/release/obj/local/x86_64/objs/jpeg-turbo1500_static/jdmainct.o"
+      ],
+      "toolchain": "toolchain-jpeg-turbo1500_static",
+      "abi": "jpeg-turbo1500_static",
+      "artifactName": "jdmainct",
+      "output": "D:\\dev\\UVCCamera\\libuvccamera\\build\\intermediates\\ndkBuild\\release\\obj\\local\\x86_64\\objs\\jpeg-turbo1500_static\\jdmainct.o"
+    },
+    "jdhuff-release-jpeg-turbo1500_static": {
+      "buildCommandComponents": [
+        "C:\\Users\\ardhi\\AppData\\Local\\Android\\Sdk\\ndk\\22.1.7171670\\ndk-build.cmd",
+        "NDK_PROJECT_PATH\u003dnull",
+        "APP_BUILD_SCRIPT\u003dD:\\dev\\UVCCamera\\libuvccamera\\src\\main\\jni\\Android.mk",
+        "NDK_APPLICATION_MK\u003dD:\\dev\\UVCCamera\\libuvccamera\\src\\main\\jni\\Application.mk",
+        "APP_ABI\u003dx86_64",
+        "NDK_ALL_ABIS\u003dx86_64",
+        "NDK_DEBUG\u003d0",
+        "APP_PLATFORM\u003dandroid-16",
+        "NDK_OUT\u003dD:/dev/UVCCamera/libuvccamera/build/intermediates/ndkBuild/release/obj",
+        "NDK_LIBS_OUT\u003dD:\\dev\\UVCCamera\\libuvccamera\\build\\intermediates\\ndkBuild\\release\\lib",
+        "D:/dev/UVCCamera/libuvccamera/build/intermediates/ndkBuild/release/obj/local/x86_64/objs/jpeg-turbo1500_static/jdhuff.o"
+      ],
+      "toolchain": "toolchain-jpeg-turbo1500_static",
+      "abi": "jpeg-turbo1500_static",
+      "artifactName": "jdhuff",
+      "output": "D:\\dev\\UVCCamera\\libuvccamera\\build\\intermediates\\ndkBuild\\release\\obj\\local\\x86_64\\objs\\jpeg-turbo1500_static\\jdhuff.o"
+    },
+    "jquant1-release-jpeg-turbo1500_static": {
+      "buildCommandComponents": [
+        "C:\\Users\\ardhi\\AppData\\Local\\Android\\Sdk\\ndk\\22.1.7171670\\ndk-build.cmd",
+        "NDK_PROJECT_PATH\u003dnull",
+        "APP_BUILD_SCRIPT\u003dD:\\dev\\UVCCamera\\libuvccamera\\src\\main\\jni\\Android.mk",
+        "NDK_APPLICATION_MK\u003dD:\\dev\\UVCCamera\\libuvccamera\\src\\main\\jni\\Application.mk",
+        "APP_ABI\u003dx86_64",
+        "NDK_ALL_ABIS\u003dx86_64",
+        "NDK_DEBUG\u003d0",
+        "APP_PLATFORM\u003dandroid-16",
+        "NDK_OUT\u003dD:/dev/UVCCamera/libuvccamera/build/intermediates/ndkBuild/release/obj",
+        "NDK_LIBS_OUT\u003dD:\\dev\\UVCCamera\\libuvccamera\\build\\intermediates\\ndkBuild\\release\\lib",
+        "D:/dev/UVCCamera/libuvccamera/build/intermediates/ndkBuild/release/obj/local/x86_64/objs/jpeg-turbo1500_static/jquant1.o"
+      ],
+      "toolchain": "toolchain-jpeg-turbo1500_static",
+      "abi": "jpeg-turbo1500_static",
+      "artifactName": "jquant1",
+      "output": "D:\\dev\\UVCCamera\\libuvccamera\\build\\intermediates\\ndkBuild\\release\\obj\\local\\x86_64\\objs\\jpeg-turbo1500_static\\jquant1.o"
+    },
+    "jdatadst-release-jpeg-turbo1500_static": {
+      "buildCommandComponents": [
+        "C:\\Users\\ardhi\\AppData\\Local\\Android\\Sdk\\ndk\\22.1.7171670\\ndk-build.cmd",
+        "NDK_PROJECT_PATH\u003dnull",
+        "APP_BUILD_SCRIPT\u003dD:\\dev\\UVCCamera\\libuvccamera\\src\\main\\jni\\Android.mk",
+        "NDK_APPLICATION_MK\u003dD:\\dev\\UVCCamera\\libuvccamera\\src\\main\\jni\\Application.mk",
+        "APP_ABI\u003dx86_64",
+        "NDK_ALL_ABIS\u003dx86_64",
+        "NDK_DEBUG\u003d0",
+        "APP_PLATFORM\u003dandroid-16",
+        "NDK_OUT\u003dD:/dev/UVCCamera/libuvccamera/build/intermediates/ndkBuild/release/obj",
+        "NDK_LIBS_OUT\u003dD:\\dev\\UVCCamera\\libuvccamera\\build\\intermediates\\ndkBuild\\release\\lib",
+        "D:/dev/UVCCamera/libuvccamera/build/intermediates/ndkBuild/release/obj/local/x86_64/objs/jpeg-turbo1500_static/jdatadst.o"
+      ],
+      "toolchain": "toolchain-jpeg-turbo1500_static",
+      "abi": "jpeg-turbo1500_static",
+      "artifactName": "jdatadst",
+      "output": "D:\\dev\\UVCCamera\\libuvccamera\\build\\intermediates\\ndkBuild\\release\\obj\\local\\x86_64\\objs\\jpeg-turbo1500_static\\jdatadst.o"
+    },
+    "jcparam-release-jpeg-turbo1500_static": {
+      "buildCommandComponents": [
+        "C:\\Users\\ardhi\\AppData\\Local\\Android\\Sdk\\ndk\\22.1.7171670\\ndk-build.cmd",
+        "NDK_PROJECT_PATH\u003dnull",
+        "APP_BUILD_SCRIPT\u003dD:\\dev\\UVCCamera\\libuvccamera\\src\\main\\jni\\Android.mk",
+        "NDK_APPLICATION_MK\u003dD:\\dev\\UVCCamera\\libuvccamera\\src\\main\\jni\\Application.mk",
+        "APP_ABI\u003dx86_64",
+        "NDK_ALL_ABIS\u003dx86_64",
+        "NDK_DEBUG\u003d0",
+        "APP_PLATFORM\u003dandroid-16",
+        "NDK_OUT\u003dD:/dev/UVCCamera/libuvccamera/build/intermediates/ndkBuild/release/obj",
+        "NDK_LIBS_OUT\u003dD:\\dev\\UVCCamera\\libuvccamera\\build\\intermediates\\ndkBuild\\release\\lib",
+        "D:/dev/UVCCamera/libuvccamera/build/intermediates/ndkBuild/release/obj/local/x86_64/objs/jpeg-turbo1500_static/jcparam.o"
+      ],
+      "toolchain": "toolchain-jpeg-turbo1500_static",
+      "abi": "jpeg-turbo1500_static",
+      "artifactName": "jcparam",
+      "output": "D:\\dev\\UVCCamera\\libuvccamera\\build\\intermediates\\ndkBuild\\release\\obj\\local\\x86_64\\objs\\jpeg-turbo1500_static\\jcparam.o"
+    },
+    "jfdctflt-release-jpeg-turbo1500_static": {
+      "buildCommandComponents": [
+        "C:\\Users\\ardhi\\AppData\\Local\\Android\\Sdk\\ndk\\22.1.7171670\\ndk-build.cmd",
+        "NDK_PROJECT_PATH\u003dnull",
+        "APP_BUILD_SCRIPT\u003dD:\\dev\\UVCCamera\\libuvccamera\\src\\main\\jni\\Android.mk",
+        "NDK_APPLICATION_MK\u003dD:\\dev\\UVCCamera\\libuvccamera\\src\\main\\jni\\Application.mk",
+        "APP_ABI\u003dx86_64",
+        "NDK_ALL_ABIS\u003dx86_64",
+        "NDK_DEBUG\u003d0",
+        "APP_PLATFORM\u003dandroid-16",
+        "NDK_OUT\u003dD:/dev/UVCCamera/libuvccamera/build/intermediates/ndkBuild/release/obj",
+        "NDK_LIBS_OUT\u003dD:\\dev\\UVCCamera\\libuvccamera\\build\\intermediates\\ndkBuild\\release\\lib",
+        "D:/dev/UVCCamera/libuvccamera/build/intermediates/ndkBuild/release/obj/local/x86_64/objs/jpeg-turbo1500_static/jfdctflt.o"
+      ],
+      "toolchain": "toolchain-jpeg-turbo1500_static",
+      "abi": "jpeg-turbo1500_static",
+      "artifactName": "jfdctflt",
+      "output": "D:\\dev\\UVCCamera\\libuvccamera\\build\\intermediates\\ndkBuild\\release\\obj\\local\\x86_64\\objs\\jpeg-turbo1500_static\\jfdctflt.o"
+    },
+    "jcdctmgr-release-jpeg-turbo1500_static": {
+      "buildCommandComponents": [
+        "C:\\Users\\ardhi\\AppData\\Local\\Android\\Sdk\\ndk\\22.1.7171670\\ndk-build.cmd",
+        "NDK_PROJECT_PATH\u003dnull",
+        "APP_BUILD_SCRIPT\u003dD:\\dev\\UVCCamera\\libuvccamera\\src\\main\\jni\\Android.mk",
+        "NDK_APPLICATION_MK\u003dD:\\dev\\UVCCamera\\libuvccamera\\src\\main\\jni\\Application.mk",
+        "APP_ABI\u003dx86_64",
+        "NDK_ALL_ABIS\u003dx86_64",
+        "NDK_DEBUG\u003d0",
+        "APP_PLATFORM\u003dandroid-16",
+        "NDK_OUT\u003dD:/dev/UVCCamera/libuvccamera/build/intermediates/ndkBuild/release/obj",
+        "NDK_LIBS_OUT\u003dD:\\dev\\UVCCamera\\libuvccamera\\build\\intermediates\\ndkBuild\\release\\lib",
+        "D:/dev/UVCCamera/libuvccamera/build/intermediates/ndkBuild/release/obj/local/x86_64/objs/jpeg-turbo1500_static/jcdctmgr.o"
+      ],
+      "toolchain": "toolchain-jpeg-turbo1500_static",
+      "abi": "jpeg-turbo1500_static",
+      "artifactName": "jcdctmgr",
+      "output": "D:\\dev\\UVCCamera\\libuvccamera\\build\\intermediates\\ndkBuild\\release\\obj\\local\\x86_64\\objs\\jpeg-turbo1500_static\\jcdctmgr.o"
+    },
+    "turbojpeg-release-jpeg-turbo1500_static": {
+      "buildCommandComponents": [
+        "C:\\Users\\ardhi\\AppData\\Local\\Android\\Sdk\\ndk\\22.1.7171670\\ndk-build.cmd",
+        "NDK_PROJECT_PATH\u003dnull",
+        "APP_BUILD_SCRIPT\u003dD:\\dev\\UVCCamera\\libuvccamera\\src\\main\\jni\\Android.mk",
+        "NDK_APPLICATION_MK\u003dD:\\dev\\UVCCamera\\libuvccamera\\src\\main\\jni\\Application.mk",
+        "APP_ABI\u003dx86_64",
+        "NDK_ALL_ABIS\u003dx86_64",
+        "NDK_DEBUG\u003d0",
+        "APP_PLATFORM\u003dandroid-16",
+        "NDK_OUT\u003dD:/dev/UVCCamera/libuvccamera/build/intermediates/ndkBuild/release/obj",
+        "NDK_LIBS_OUT\u003dD:\\dev\\UVCCamera\\libuvccamera\\build\\intermediates\\ndkBuild\\release\\lib",
+        "D:/dev/UVCCamera/libuvccamera/build/intermediates/ndkBuild/release/obj/local/x86_64/objs/jpeg-turbo1500_static/turbojpeg.o"
+      ],
+      "toolchain": "toolchain-jpeg-turbo1500_static",
+      "abi": "jpeg-turbo1500_static",
+      "artifactName": "turbojpeg",
+      "output": "D:\\dev\\UVCCamera\\libuvccamera\\build\\intermediates\\ndkBuild\\release\\obj\\local\\x86_64\\objs\\jpeg-turbo1500_static\\turbojpeg.o"
+    },
+    "jccolor-release-jpeg-turbo1500_static": {
+      "buildCommandComponents": [
+        "C:\\Users\\ardhi\\AppData\\Local\\Android\\Sdk\\ndk\\22.1.7171670\\ndk-build.cmd",
+        "NDK_PROJECT_PATH\u003dnull",
+        "APP_BUILD_SCRIPT\u003dD:\\dev\\UVCCamera\\libuvccamera\\src\\main\\jni\\Android.mk",
+        "NDK_APPLICATION_MK\u003dD:\\dev\\UVCCamera\\libuvccamera\\src\\main\\jni\\Application.mk",
+        "APP_ABI\u003dx86_64",
+        "NDK_ALL_ABIS\u003dx86_64",
+        "NDK_DEBUG\u003d0",
+        "APP_PLATFORM\u003dandroid-16",
+        "NDK_OUT\u003dD:/dev/UVCCamera/libuvccamera/build/intermediates/ndkBuild/release/obj",
+        "NDK_LIBS_OUT\u003dD:\\dev\\UVCCamera\\libuvccamera\\build\\intermediates\\ndkBuild\\release\\lib",
+        "D:/dev/UVCCamera/libuvccamera/build/intermediates/ndkBuild/release/obj/local/x86_64/objs/jpeg-turbo1500_static/jccolor.o"
+      ],
+      "toolchain": "toolchain-jpeg-turbo1500_static",
+      "abi": "jpeg-turbo1500_static",
+      "artifactName": "jccolor",
+      "output": "D:\\dev\\UVCCamera\\libuvccamera\\build\\intermediates\\ndkBuild\\release\\obj\\local\\x86_64\\objs\\jpeg-turbo1500_static\\jccolor.o"
+    },
+    "jcphuff-release-jpeg-turbo1500_static": {
+      "buildCommandComponents": [
+        "C:\\Users\\ardhi\\AppData\\Local\\Android\\Sdk\\ndk\\22.1.7171670\\ndk-build.cmd",
+        "NDK_PROJECT_PATH\u003dnull",
+        "APP_BUILD_SCRIPT\u003dD:\\dev\\UVCCamera\\libuvccamera\\src\\main\\jni\\Android.mk",
+        "NDK_APPLICATION_MK\u003dD:\\dev\\UVCCamera\\libuvccamera\\src\\main\\jni\\Application.mk",
+        "APP_ABI\u003dx86_64",
+        "NDK_ALL_ABIS\u003dx86_64",
+        "NDK_DEBUG\u003d0",
+        "APP_PLATFORM\u003dandroid-16",
+        "NDK_OUT\u003dD:/dev/UVCCamera/libuvccamera/build/intermediates/ndkBuild/release/obj",
+        "NDK_LIBS_OUT\u003dD:\\dev\\UVCCamera\\libuvccamera\\build\\intermediates\\ndkBuild\\release\\lib",
+        "D:/dev/UVCCamera/libuvccamera/build/intermediates/ndkBuild/release/obj/local/x86_64/objs/jpeg-turbo1500_static/jcphuff.o"
+      ],
+      "toolchain": "toolchain-jpeg-turbo1500_static",
+      "abi": "jpeg-turbo1500_static",
+      "artifactName": "jcphuff",
+      "output": "D:\\dev\\UVCCamera\\libuvccamera\\build\\intermediates\\ndkBuild\\release\\obj\\local\\x86_64\\objs\\jpeg-turbo1500_static\\jcphuff.o"
+    },
+    "jcsample-release-jpeg-turbo1500_static": {
+      "buildCommandComponents": [
+        "C:\\Users\\ardhi\\AppData\\Local\\Android\\Sdk\\ndk\\22.1.7171670\\ndk-build.cmd",
+        "NDK_PROJECT_PATH\u003dnull",
+        "APP_BUILD_SCRIPT\u003dD:\\dev\\UVCCamera\\libuvccamera\\src\\main\\jni\\Android.mk",
+        "NDK_APPLICATION_MK\u003dD:\\dev\\UVCCamera\\libuvccamera\\src\\main\\jni\\Application.mk",
+        "APP_ABI\u003dx86_64",
+        "NDK_ALL_ABIS\u003dx86_64",
+        "NDK_DEBUG\u003d0",
+        "APP_PLATFORM\u003dandroid-16",
+        "NDK_OUT\u003dD:/dev/UVCCamera/libuvccamera/build/intermediates/ndkBuild/release/obj",
+        "NDK_LIBS_OUT\u003dD:\\dev\\UVCCamera\\libuvccamera\\build\\intermediates\\ndkBuild\\release\\lib",
+        "D:/dev/UVCCamera/libuvccamera/build/intermediates/ndkBuild/release/obj/local/x86_64/objs/jpeg-turbo1500_static/jcsample.o"
+      ],
+      "toolchain": "toolchain-jpeg-turbo1500_static",
+      "abi": "jpeg-turbo1500_static",
+      "artifactName": "jcsample",
+      "output": "D:\\dev\\UVCCamera\\libuvccamera\\build\\intermediates\\ndkBuild\\release\\obj\\local\\x86_64\\objs\\jpeg-turbo1500_static\\jcsample.o"
+    },
+    "jdcoefct-release-jpeg-turbo1500_static": {
+      "buildCommandComponents": [
+        "C:\\Users\\ardhi\\AppData\\Local\\Android\\Sdk\\ndk\\22.1.7171670\\ndk-build.cmd",
+        "NDK_PROJECT_PATH\u003dnull",
+        "APP_BUILD_SCRIPT\u003dD:\\dev\\UVCCamera\\libuvccamera\\src\\main\\jni\\Android.mk",
+        "NDK_APPLICATION_MK\u003dD:\\dev\\UVCCamera\\libuvccamera\\src\\main\\jni\\Application.mk",
+        "APP_ABI\u003dx86_64",
+        "NDK_ALL_ABIS\u003dx86_64",
+        "NDK_DEBUG\u003d0",
+        "APP_PLATFORM\u003dandroid-16",
+        "NDK_OUT\u003dD:/dev/UVCCamera/libuvccamera/build/intermediates/ndkBuild/release/obj",
+        "NDK_LIBS_OUT\u003dD:\\dev\\UVCCamera\\libuvccamera\\build\\intermediates\\ndkBuild\\release\\lib",
+        "D:/dev/UVCCamera/libuvccamera/build/intermediates/ndkBuild/release/obj/local/x86_64/objs/jpeg-turbo1500_static/jdcoefct.o"
+      ],
+      "toolchain": "toolchain-jpeg-turbo1500_static",
+      "abi": "jpeg-turbo1500_static",
+      "artifactName": "jdcoefct",
+      "output": "D:\\dev\\UVCCamera\\libuvccamera\\build\\intermediates\\ndkBuild\\release\\obj\\local\\x86_64\\objs\\jpeg-turbo1500_static\\jdcoefct.o"
+    },
+    "transupp-release-jpeg-turbo1500_static": {
+      "buildCommandComponents": [
+        "C:\\Users\\ardhi\\AppData\\Local\\Android\\Sdk\\ndk\\22.1.7171670\\ndk-build.cmd",
+        "NDK_PROJECT_PATH\u003dnull",
+        "APP_BUILD_SCRIPT\u003dD:\\dev\\UVCCamera\\libuvccamera\\src\\main\\jni\\Android.mk",
+        "NDK_APPLICATION_MK\u003dD:\\dev\\UVCCamera\\libuvccamera\\src\\main\\jni\\Application.mk",
+        "APP_ABI\u003dx86_64",
+        "NDK_ALL_ABIS\u003dx86_64",
+        "NDK_DEBUG\u003d0",
+        "APP_PLATFORM\u003dandroid-16",
+        "NDK_OUT\u003dD:/dev/UVCCamera/libuvccamera/build/intermediates/ndkBuild/release/obj",
+        "NDK_LIBS_OUT\u003dD:\\dev\\UVCCamera\\libuvccamera\\build\\intermediates\\ndkBuild\\release\\lib",
+        "D:/dev/UVCCamera/libuvccamera/build/intermediates/ndkBuild/release/obj/local/x86_64/objs/jpeg-turbo1500_static/transupp.o"
+      ],
+      "toolchain": "toolchain-jpeg-turbo1500_static",
+      "abi": "jpeg-turbo1500_static",
+      "artifactName": "transupp",
+      "output": "D:\\dev\\UVCCamera\\libuvccamera\\build\\intermediates\\ndkBuild\\release\\obj\\local\\x86_64\\objs\\jpeg-turbo1500_static\\transupp.o"
+    },
+    "jdmarker-release-jpeg-turbo1500_static": {
+      "buildCommandComponents": [
+        "C:\\Users\\ardhi\\AppData\\Local\\Android\\Sdk\\ndk\\22.1.7171670\\ndk-build.cmd",
+        "NDK_PROJECT_PATH\u003dnull",
+        "APP_BUILD_SCRIPT\u003dD:\\dev\\UVCCamera\\libuvccamera\\src\\main\\jni\\Android.mk",
+        "NDK_APPLICATION_MK\u003dD:\\dev\\UVCCamera\\libuvccamera\\src\\main\\jni\\Application.mk",
+        "APP_ABI\u003dx86_64",
+        "NDK_ALL_ABIS\u003dx86_64",
+        "NDK_DEBUG\u003d0",
+        "APP_PLATFORM\u003dandroid-16",
+        "NDK_OUT\u003dD:/dev/UVCCamera/libuvccamera/build/intermediates/ndkBuild/release/obj",
+        "NDK_LIBS_OUT\u003dD:\\dev\\UVCCamera\\libuvccamera\\build\\intermediates\\ndkBuild\\release\\lib",
+        "D:/dev/UVCCamera/libuvccamera/build/intermediates/ndkBuild/release/obj/local/x86_64/objs/jpeg-turbo1500_static/jdmarker.o"
+      ],
+      "toolchain": "toolchain-jpeg-turbo1500_static",
+      "abi": "jpeg-turbo1500_static",
+      "artifactName": "jdmarker",
+      "output": "D:\\dev\\UVCCamera\\libuvccamera\\build\\intermediates\\ndkBuild\\release\\obj\\local\\x86_64\\objs\\jpeg-turbo1500_static\\jdmarker.o"
+    },
+    "jcprepct-release-jpeg-turbo1500_static": {
+      "buildCommandComponents": [
+        "C:\\Users\\ardhi\\AppData\\Local\\Android\\Sdk\\ndk\\22.1.7171670\\ndk-build.cmd",
+        "NDK_PROJECT_PATH\u003dnull",
+        "APP_BUILD_SCRIPT\u003dD:\\dev\\UVCCamera\\libuvccamera\\src\\main\\jni\\Android.mk",
+        "NDK_APPLICATION_MK\u003dD:\\dev\\UVCCamera\\libuvccamera\\src\\main\\jni\\Application.mk",
+        "APP_ABI\u003dx86_64",
+        "NDK_ALL_ABIS\u003dx86_64",
+        "NDK_DEBUG\u003d0",
+        "APP_PLATFORM\u003dandroid-16",
+        "NDK_OUT\u003dD:/dev/UVCCamera/libuvccamera/build/intermediates/ndkBuild/release/obj",
+        "NDK_LIBS_OUT\u003dD:\\dev\\UVCCamera\\libuvccamera\\build\\intermediates\\ndkBuild\\release\\lib",
+        "D:/dev/UVCCamera/libuvccamera/build/intermediates/ndkBuild/release/obj/local/x86_64/objs/jpeg-turbo1500_static/jcprepct.o"
+      ],
+      "toolchain": "toolchain-jpeg-turbo1500_static",
+      "abi": "jpeg-turbo1500_static",
+      "artifactName": "jcprepct",
+      "output": "D:\\dev\\UVCCamera\\libuvccamera\\build\\intermediates\\ndkBuild\\release\\obj\\local\\x86_64\\objs\\jpeg-turbo1500_static\\jcprepct.o"
+    },
+    "jcmainct-release-jpeg-turbo1500_static": {
+      "buildCommandComponents": [
+        "C:\\Users\\ardhi\\AppData\\Local\\Android\\Sdk\\ndk\\22.1.7171670\\ndk-build.cmd",
+        "NDK_PROJECT_PATH\u003dnull",
+        "APP_BUILD_SCRIPT\u003dD:\\dev\\UVCCamera\\libuvccamera\\src\\main\\jni\\Android.mk",
+        "NDK_APPLICATION_MK\u003dD:\\dev\\UVCCamera\\libuvccamera\\src\\main\\jni\\Application.mk",
+        "APP_ABI\u003dx86_64",
+        "NDK_ALL_ABIS\u003dx86_64",
+        "NDK_DEBUG\u003d0",
+        "APP_PLATFORM\u003dandroid-16",
+        "NDK_OUT\u003dD:/dev/UVCCamera/libuvccamera/build/intermediates/ndkBuild/release/obj",
+        "NDK_LIBS_OUT\u003dD:\\dev\\UVCCamera\\libuvccamera\\build\\intermediates\\ndkBuild\\release\\lib",
+        "D:/dev/UVCCamera/libuvccamera/build/intermediates/ndkBuild/release/obj/local/x86_64/objs/jpeg-turbo1500_static/jcmainct.o"
+      ],
+      "toolchain": "toolchain-jpeg-turbo1500_static",
+      "abi": "jpeg-turbo1500_static",
+      "artifactName": "jcmainct",
+      "output": "D:\\dev\\UVCCamera\\libuvccamera\\build\\intermediates\\ndkBuild\\release\\obj\\local\\x86_64\\objs\\jpeg-turbo1500_static\\jcmainct.o"
+    },
+    "jcmaster-release-jpeg-turbo1500_static": {
+      "buildCommandComponents": [
+        "C:\\Users\\ardhi\\AppData\\Local\\Android\\Sdk\\ndk\\22.1.7171670\\ndk-build.cmd",
+        "NDK_PROJECT_PATH\u003dnull",
+        "APP_BUILD_SCRIPT\u003dD:\\dev\\UVCCamera\\libuvccamera\\src\\main\\jni\\Android.mk",
+        "NDK_APPLICATION_MK\u003dD:\\dev\\UVCCamera\\libuvccamera\\src\\main\\jni\\Application.mk",
+        "APP_ABI\u003dx86_64",
+        "NDK_ALL_ABIS\u003dx86_64",
+        "NDK_DEBUG\u003d0",
+        "APP_PLATFORM\u003dandroid-16",
+        "NDK_OUT\u003dD:/dev/UVCCamera/libuvccamera/build/intermediates/ndkBuild/release/obj",
+        "NDK_LIBS_OUT\u003dD:\\dev\\UVCCamera\\libuvccamera\\build\\intermediates\\ndkBuild\\release\\lib",
+        "D:/dev/UVCCamera/libuvccamera/build/intermediates/ndkBuild/release/obj/local/x86_64/objs/jpeg-turbo1500_static/jcmaster.o"
+      ],
+      "toolchain": "toolchain-jpeg-turbo1500_static",
+      "abi": "jpeg-turbo1500_static",
+      "artifactName": "jcmaster",
+      "output": "D:\\dev\\UVCCamera\\libuvccamera\\build\\intermediates\\ndkBuild\\release\\obj\\local\\x86_64\\objs\\jpeg-turbo1500_static\\jcmaster.o"
+    },
+    "threads_posix-release-os": {
+      "buildCommandComponents": [
+        "C:\\Users\\ardhi\\AppData\\Local\\Android\\Sdk\\ndk\\22.1.7171670\\ndk-build.cmd",
+        "NDK_PROJECT_PATH\u003dnull",
+        "APP_BUILD_SCRIPT\u003dD:\\dev\\UVCCamera\\libuvccamera\\src\\main\\jni\\Android.mk",
+        "NDK_APPLICATION_MK\u003dD:\\dev\\UVCCamera\\libuvccamera\\src\\main\\jni\\Application.mk",
+        "APP_ABI\u003dx86_64",
+        "NDK_ALL_ABIS\u003dx86_64",
+        "NDK_DEBUG\u003d0",
+        "APP_PLATFORM\u003dandroid-16",
+        "NDK_OUT\u003dD:/dev/UVCCamera/libuvccamera/build/intermediates/ndkBuild/release/obj",
+        "NDK_LIBS_OUT\u003dD:\\dev\\UVCCamera\\libuvccamera\\build\\intermediates\\ndkBuild\\release\\lib",
+        "D:/dev/UVCCamera/libuvccamera/build/intermediates/ndkBuild/release/obj/local/x86_64/objs/usb100_static/libusb/os/threads_posix.o"
+      ],
+      "toolchain": "toolchain-os",
+      "abi": "os",
+      "artifactName": "threads_posix",
+      "output": "D:\\dev\\UVCCamera\\libuvccamera\\build\\intermediates\\ndkBuild\\release\\obj\\local\\x86_64\\objs\\usb100_static\\libusb\\os\\threads_posix.o"
+    },
+    "jdinput-release-jpeg-turbo1500_static": {
+      "buildCommandComponents": [
+        "C:\\Users\\ardhi\\AppData\\Local\\Android\\Sdk\\ndk\\22.1.7171670\\ndk-build.cmd",
+        "NDK_PROJECT_PATH\u003dnull",
+        "APP_BUILD_SCRIPT\u003dD:\\dev\\UVCCamera\\libuvccamera\\src\\main\\jni\\Android.mk",
+        "NDK_APPLICATION_MK\u003dD:\\dev\\UVCCamera\\libuvccamera\\src\\main\\jni\\Application.mk",
+        "APP_ABI\u003dx86_64",
+        "NDK_ALL_ABIS\u003dx86_64",
+        "NDK_DEBUG\u003d0",
+        "APP_PLATFORM\u003dandroid-16",
+        "NDK_OUT\u003dD:/dev/UVCCamera/libuvccamera/build/intermediates/ndkBuild/release/obj",
+        "NDK_LIBS_OUT\u003dD:\\dev\\UVCCamera\\libuvccamera\\build\\intermediates\\ndkBuild\\release\\lib",
+        "D:/dev/UVCCamera/libuvccamera/build/intermediates/ndkBuild/release/obj/local/x86_64/objs/jpeg-turbo1500_static/jdinput.o"
+      ],
+      "toolchain": "toolchain-jpeg-turbo1500_static",
+      "abi": "jpeg-turbo1500_static",
+      "artifactName": "jdinput",
+      "output": "D:\\dev\\UVCCamera\\libuvccamera\\build\\intermediates\\ndkBuild\\release\\obj\\local\\x86_64\\objs\\jpeg-turbo1500_static\\jdinput.o"
+    },
+    "jidctflt-release-jpeg-turbo1500_static": {
+      "buildCommandComponents": [
+        "C:\\Users\\ardhi\\AppData\\Local\\Android\\Sdk\\ndk\\22.1.7171670\\ndk-build.cmd",
+        "NDK_PROJECT_PATH\u003dnull",
+        "APP_BUILD_SCRIPT\u003dD:\\dev\\UVCCamera\\libuvccamera\\src\\main\\jni\\Android.mk",
+        "NDK_APPLICATION_MK\u003dD:\\dev\\UVCCamera\\libuvccamera\\src\\main\\jni\\Application.mk",
+        "APP_ABI\u003dx86_64",
+        "NDK_ALL_ABIS\u003dx86_64",
+        "NDK_DEBUG\u003d0",
+        "APP_PLATFORM\u003dandroid-16",
+        "NDK_OUT\u003dD:/dev/UVCCamera/libuvccamera/build/intermediates/ndkBuild/release/obj",
+        "NDK_LIBS_OUT\u003dD:\\dev\\UVCCamera\\libuvccamera\\build\\intermediates\\ndkBuild\\release\\lib",
+        "D:/dev/UVCCamera/libuvccamera/build/intermediates/ndkBuild/release/obj/local/x86_64/objs/jpeg-turbo1500_static/jidctflt.o"
+      ],
+      "toolchain": "toolchain-jpeg-turbo1500_static",
+      "abi": "jpeg-turbo1500_static",
+      "artifactName": "jidctflt",
+      "output": "D:\\dev\\UVCCamera\\libuvccamera\\build\\intermediates\\ndkBuild\\release\\obj\\local\\x86_64\\objs\\jpeg-turbo1500_static\\jidctflt.o"
+    },
+    "jccoefct-release-jpeg-turbo1500_static": {
+      "buildCommandComponents": [
+        "C:\\Users\\ardhi\\AppData\\Local\\Android\\Sdk\\ndk\\22.1.7171670\\ndk-build.cmd",
+        "NDK_PROJECT_PATH\u003dnull",
+        "APP_BUILD_SCRIPT\u003dD:\\dev\\UVCCamera\\libuvccamera\\src\\main\\jni\\Android.mk",
+        "NDK_APPLICATION_MK\u003dD:\\dev\\UVCCamera\\libuvccamera\\src\\main\\jni\\Application.mk",
+        "APP_ABI\u003dx86_64",
+        "NDK_ALL_ABIS\u003dx86_64",
+        "NDK_DEBUG\u003d0",
+        "APP_PLATFORM\u003dandroid-16",
+        "NDK_OUT\u003dD:/dev/UVCCamera/libuvccamera/build/intermediates/ndkBuild/release/obj",
+        "NDK_LIBS_OUT\u003dD:\\dev\\UVCCamera\\libuvccamera\\build\\intermediates\\ndkBuild\\release\\lib",
+        "D:/dev/UVCCamera/libuvccamera/build/intermediates/ndkBuild/release/obj/local/x86_64/objs/jpeg-turbo1500_static/jccoefct.o"
+      ],
+      "toolchain": "toolchain-jpeg-turbo1500_static",
+      "abi": "jpeg-turbo1500_static",
+      "artifactName": "jccoefct",
+      "output": "D:\\dev\\UVCCamera\\libuvccamera\\build\\intermediates\\ndkBuild\\release\\obj\\local\\x86_64\\objs\\jpeg-turbo1500_static\\jccoefct.o"
+    },
+    "strerror-release-libusb": {
+      "buildCommandComponents": [
+        "C:\\Users\\ardhi\\AppData\\Local\\Android\\Sdk\\ndk\\22.1.7171670\\ndk-build.cmd",
+        "NDK_PROJECT_PATH\u003dnull",
+        "APP_BUILD_SCRIPT\u003dD:\\dev\\UVCCamera\\libuvccamera\\src\\main\\jni\\Android.mk",
+        "NDK_APPLICATION_MK\u003dD:\\dev\\UVCCamera\\libuvccamera\\src\\main\\jni\\Application.mk",
+        "APP_ABI\u003dx86_64",
+        "NDK_ALL_ABIS\u003dx86_64",
+        "NDK_DEBUG\u003d0",
+        "APP_PLATFORM\u003dandroid-16",
+        "NDK_OUT\u003dD:/dev/UVCCamera/libuvccamera/build/intermediates/ndkBuild/release/obj",
+        "NDK_LIBS_OUT\u003dD:\\dev\\UVCCamera\\libuvccamera\\build\\intermediates\\ndkBuild\\release\\lib",
+        "D:/dev/UVCCamera/libuvccamera/build/intermediates/ndkBuild/release/obj/local/x86_64/objs/usb100_static/libusb/strerror.o"
+      ],
+      "toolchain": "toolchain-libusb",
+      "abi": "libusb",
+      "artifactName": "strerror",
+      "output": "D:\\dev\\UVCCamera\\libuvccamera\\build\\intermediates\\ndkBuild\\release\\obj\\local\\x86_64\\objs\\usb100_static\\libusb\\strerror.o"
+    },
+    "jdatasrc-tj-release-jpeg-turbo1500_static": {
+      "buildCommandComponents": [
+        "C:\\Users\\ardhi\\AppData\\Local\\Android\\Sdk\\ndk\\22.1.7171670\\ndk-build.cmd",
+        "NDK_PROJECT_PATH\u003dnull",
+        "APP_BUILD_SCRIPT\u003dD:\\dev\\UVCCamera\\libuvccamera\\src\\main\\jni\\Android.mk",
+        "NDK_APPLICATION_MK\u003dD:\\dev\\UVCCamera\\libuvccamera\\src\\main\\jni\\Application.mk",
+        "APP_ABI\u003dx86_64",
+        "NDK_ALL_ABIS\u003dx86_64",
+        "NDK_DEBUG\u003d0",
+        "APP_PLATFORM\u003dandroid-16",
+        "NDK_OUT\u003dD:/dev/UVCCamera/libuvccamera/build/intermediates/ndkBuild/release/obj",
+        "NDK_LIBS_OUT\u003dD:\\dev\\UVCCamera\\libuvccamera\\build\\intermediates\\ndkBuild\\release\\lib",
+        "D:/dev/UVCCamera/libuvccamera/build/intermediates/ndkBuild/release/obj/local/x86_64/objs/jpeg-turbo1500_static/jdatasrc-tj.o"
+      ],
+      "toolchain": "toolchain-jpeg-turbo1500_static",
+      "abi": "jpeg-turbo1500_static",
+      "artifactName": "jdatasrc-tj",
+      "output": "D:\\dev\\UVCCamera\\libuvccamera\\build\\intermediates\\ndkBuild\\release\\obj\\local\\x86_64\\objs\\jpeg-turbo1500_static\\jdatasrc-tj.o"
+    },
+    "jcmarker-release-jpeg-turbo1500_static": {
+      "buildCommandComponents": [
+        "C:\\Users\\ardhi\\AppData\\Local\\Android\\Sdk\\ndk\\22.1.7171670\\ndk-build.cmd",
+        "NDK_PROJECT_PATH\u003dnull",
+        "APP_BUILD_SCRIPT\u003dD:\\dev\\UVCCamera\\libuvccamera\\src\\main\\jni\\Android.mk",
+        "NDK_APPLICATION_MK\u003dD:\\dev\\UVCCamera\\libuvccamera\\src\\main\\jni\\Application.mk",
+        "APP_ABI\u003dx86_64",
+        "NDK_ALL_ABIS\u003dx86_64",
+        "NDK_DEBUG\u003d0",
+        "APP_PLATFORM\u003dandroid-16",
+        "NDK_OUT\u003dD:/dev/UVCCamera/libuvccamera/build/intermediates/ndkBuild/release/obj",
+        "NDK_LIBS_OUT\u003dD:\\dev\\UVCCamera\\libuvccamera\\build\\intermediates\\ndkBuild\\release\\lib",
+        "D:/dev/UVCCamera/libuvccamera/build/intermediates/ndkBuild/release/obj/local/x86_64/objs/jpeg-turbo1500_static/jcmarker.o"
+      ],
+      "toolchain": "toolchain-jpeg-turbo1500_static",
+      "abi": "jpeg-turbo1500_static",
+      "artifactName": "jcmarker",
+      "output": "D:\\dev\\UVCCamera\\libuvccamera\\build\\intermediates\\ndkBuild\\release\\obj\\local\\x86_64\\objs\\jpeg-turbo1500_static\\jcmarker.o"
+    },
+    "jdcolor-release-jpeg-turbo1500_static": {
+      "buildCommandComponents": [
+        "C:\\Users\\ardhi\\AppData\\Local\\Android\\Sdk\\ndk\\22.1.7171670\\ndk-build.cmd",
+        "NDK_PROJECT_PATH\u003dnull",
+        "APP_BUILD_SCRIPT\u003dD:\\dev\\UVCCamera\\libuvccamera\\src\\main\\jni\\Android.mk",
+        "NDK_APPLICATION_MK\u003dD:\\dev\\UVCCamera\\libuvccamera\\src\\main\\jni\\Application.mk",
+        "APP_ABI\u003dx86_64",
+        "NDK_ALL_ABIS\u003dx86_64",
+        "NDK_DEBUG\u003d0",
+        "APP_PLATFORM\u003dandroid-16",
+        "NDK_OUT\u003dD:/dev/UVCCamera/libuvccamera/build/intermediates/ndkBuild/release/obj",
+        "NDK_LIBS_OUT\u003dD:\\dev\\UVCCamera\\libuvccamera\\build\\intermediates\\ndkBuild\\release\\lib",
+        "D:/dev/UVCCamera/libuvccamera/build/intermediates/ndkBuild/release/obj/local/x86_64/objs/jpeg-turbo1500_static/jdcolor.o"
+      ],
+      "toolchain": "toolchain-jpeg-turbo1500_static",
+      "abi": "jpeg-turbo1500_static",
+      "artifactName": "jdcolor",
+      "output": "D:\\dev\\UVCCamera\\libuvccamera\\build\\intermediates\\ndkBuild\\release\\obj\\local\\x86_64\\objs\\jpeg-turbo1500_static\\jdcolor.o"
+    },
+    "stream-release-src": {
+      "buildCommandComponents": [
+        "C:\\Users\\ardhi\\AppData\\Local\\Android\\Sdk\\ndk\\22.1.7171670\\ndk-build.cmd",
+        "NDK_PROJECT_PATH\u003dnull",
+        "APP_BUILD_SCRIPT\u003dD:\\dev\\UVCCamera\\libuvccamera\\src\\main\\jni\\Android.mk",
+        "NDK_APPLICATION_MK\u003dD:\\dev\\UVCCamera\\libuvccamera\\src\\main\\jni\\Application.mk",
+        "APP_ABI\u003dx86_64",
+        "NDK_ALL_ABIS\u003dx86_64",
+        "NDK_DEBUG\u003d0",
+        "APP_PLATFORM\u003dandroid-16",
+        "NDK_OUT\u003dD:/dev/UVCCamera/libuvccamera/build/intermediates/ndkBuild/release/obj",
+        "NDK_LIBS_OUT\u003dD:\\dev\\UVCCamera\\libuvccamera\\build\\intermediates\\ndkBuild\\release\\lib",
+        "D:/dev/UVCCamera/libuvccamera/build/intermediates/ndkBuild/release/obj/local/x86_64/objs/uvc_static/src/stream.o"
+      ],
+      "toolchain": "toolchain-src",
+      "abi": "src",
+      "artifactName": "stream",
+      "output": "D:\\dev\\UVCCamera\\libuvccamera\\build\\intermediates\\ndkBuild\\release\\obj\\local\\x86_64\\objs\\uvc_static\\src\\stream.o"
+    },
+    "jcinit-release-jpeg-turbo1500_static": {
+      "buildCommandComponents": [
+        "C:\\Users\\ardhi\\AppData\\Local\\Android\\Sdk\\ndk\\22.1.7171670\\ndk-build.cmd",
+        "NDK_PROJECT_PATH\u003dnull",
+        "APP_BUILD_SCRIPT\u003dD:\\dev\\UVCCamera\\libuvccamera\\src\\main\\jni\\Android.mk",
+        "NDK_APPLICATION_MK\u003dD:\\dev\\UVCCamera\\libuvccamera\\src\\main\\jni\\Application.mk",
+        "APP_ABI\u003dx86_64",
+        "NDK_ALL_ABIS\u003dx86_64",
+        "NDK_DEBUG\u003d0",
+        "APP_PLATFORM\u003dandroid-16",
+        "NDK_OUT\u003dD:/dev/UVCCamera/libuvccamera/build/intermediates/ndkBuild/release/obj",
+        "NDK_LIBS_OUT\u003dD:\\dev\\UVCCamera\\libuvccamera\\build\\intermediates\\ndkBuild\\release\\lib",
+        "D:/dev/UVCCamera/libuvccamera/build/intermediates/ndkBuild/release/obj/local/x86_64/objs/jpeg-turbo1500_static/jcinit.o"
+      ],
+      "toolchain": "toolchain-jpeg-turbo1500_static",
+      "abi": "jpeg-turbo1500_static",
+      "artifactName": "jcinit",
+      "output": "D:\\dev\\UVCCamera\\libuvccamera\\build\\intermediates\\ndkBuild\\release\\obj\\local\\x86_64\\objs\\jpeg-turbo1500_static\\jcinit.o"
+    },
+    "jdmaster-release-jpeg-turbo1500_static": {
+      "buildCommandComponents": [
+        "C:\\Users\\ardhi\\AppData\\Local\\Android\\Sdk\\ndk\\22.1.7171670\\ndk-build.cmd",
+        "NDK_PROJECT_PATH\u003dnull",
+        "APP_BUILD_SCRIPT\u003dD:\\dev\\UVCCamera\\libuvccamera\\src\\main\\jni\\Android.mk",
+        "NDK_APPLICATION_MK\u003dD:\\dev\\UVCCamera\\libuvccamera\\src\\main\\jni\\Application.mk",
+        "APP_ABI\u003dx86_64",
+        "NDK_ALL_ABIS\u003dx86_64",
+        "NDK_DEBUG\u003d0",
+        "APP_PLATFORM\u003dandroid-16",
+        "NDK_OUT\u003dD:/dev/UVCCamera/libuvccamera/build/intermediates/ndkBuild/release/obj",
+        "NDK_LIBS_OUT\u003dD:\\dev\\UVCCamera\\libuvccamera\\build\\intermediates\\ndkBuild\\release\\lib",
+        "D:/dev/UVCCamera/libuvccamera/build/intermediates/ndkBuild/release/obj/local/x86_64/objs/jpeg-turbo1500_static/jdmaster.o"
+      ],
+      "toolchain": "toolchain-jpeg-turbo1500_static",
+      "abi": "jpeg-turbo1500_static",
+      "artifactName": "jdmaster",
+      "output": "D:\\dev\\UVCCamera\\libuvccamera\\build\\intermediates\\ndkBuild\\release\\obj\\local\\x86_64\\objs\\jpeg-turbo1500_static\\jdmaster.o"
+    },
+    "sync-release-libusb": {
+      "buildCommandComponents": [
+        "C:\\Users\\ardhi\\AppData\\Local\\Android\\Sdk\\ndk\\22.1.7171670\\ndk-build.cmd",
+        "NDK_PROJECT_PATH\u003dnull",
+        "APP_BUILD_SCRIPT\u003dD:\\dev\\UVCCamera\\libuvccamera\\src\\main\\jni\\Android.mk",
+        "NDK_APPLICATION_MK\u003dD:\\dev\\UVCCamera\\libuvccamera\\src\\main\\jni\\Application.mk",
+        "APP_ABI\u003dx86_64",
+        "NDK_ALL_ABIS\u003dx86_64",
+        "NDK_DEBUG\u003d0",
+        "APP_PLATFORM\u003dandroid-16",
+        "NDK_OUT\u003dD:/dev/UVCCamera/libuvccamera/build/intermediates/ndkBuild/release/obj",
+        "NDK_LIBS_OUT\u003dD:\\dev\\UVCCamera\\libuvccamera\\build\\intermediates\\ndkBuild\\release\\lib",
+        "D:/dev/UVCCamera/libuvccamera/build/intermediates/ndkBuild/release/obj/local/x86_64/objs/usb100_static/libusb/sync.o"
+      ],
+      "toolchain": "toolchain-libusb",
+      "abi": "libusb",
+      "artifactName": "sync",
+      "output": "D:\\dev\\UVCCamera\\libuvccamera\\build\\intermediates\\ndkBuild\\release\\obj\\local\\x86_64\\objs\\usb100_static\\libusb\\sync.o"
+    },
+    "usb100-release-x86_64": {
+      "buildCommandComponents": [
+        "C:\\Users\\ardhi\\AppData\\Local\\Android\\Sdk\\ndk\\22.1.7171670\\ndk-build.cmd",
+        "NDK_PROJECT_PATH\u003dnull",
+        "APP_BUILD_SCRIPT\u003dD:\\dev\\UVCCamera\\libuvccamera\\src\\main\\jni\\Android.mk",
+        "NDK_APPLICATION_MK\u003dD:\\dev\\UVCCamera\\libuvccamera\\src\\main\\jni\\Application.mk",
+        "APP_ABI\u003dx86_64",
+        "NDK_ALL_ABIS\u003dx86_64",
+        "NDK_DEBUG\u003d0",
+        "APP_PLATFORM\u003dandroid-16",
+        "NDK_OUT\u003dD:/dev/UVCCamera/libuvccamera/build/intermediates/ndkBuild/release/obj",
+        "NDK_LIBS_OUT\u003dD:\\dev\\UVCCamera\\libuvccamera\\build\\intermediates\\ndkBuild\\release\\lib",
+        "D:/dev/UVCCamera/libuvccamera/build/intermediates/ndkBuild/release/obj/local/x86_64/libusb100.so"
+      ],
+      "toolchain": "toolchain-x86_64",
+      "abi": "x86_64",
+      "artifactName": "usb100",
+      "output": "D:\\dev\\UVCCamera\\libuvccamera\\build\\intermediates\\ndkBuild\\release\\obj\\local\\x86_64\\libusb100.so"
+    },
+    "jidctfst-release-jpeg-turbo1500_static": {
+      "buildCommandComponents": [
+        "C:\\Users\\ardhi\\AppData\\Local\\Android\\Sdk\\ndk\\22.1.7171670\\ndk-build.cmd",
+        "NDK_PROJECT_PATH\u003dnull",
+        "APP_BUILD_SCRIPT\u003dD:\\dev\\UVCCamera\\libuvccamera\\src\\main\\jni\\Android.mk",
+        "NDK_APPLICATION_MK\u003dD:\\dev\\UVCCamera\\libuvccamera\\src\\main\\jni\\Application.mk",
+        "APP_ABI\u003dx86_64",
+        "NDK_ALL_ABIS\u003dx86_64",
+        "NDK_DEBUG\u003d0",
+        "APP_PLATFORM\u003dandroid-16",
+        "NDK_OUT\u003dD:/dev/UVCCamera/libuvccamera/build/intermediates/ndkBuild/release/obj",
+        "NDK_LIBS_OUT\u003dD:\\dev\\UVCCamera\\libuvccamera\\build\\intermediates\\ndkBuild\\release\\lib",
+        "D:/dev/UVCCamera/libuvccamera/build/intermediates/ndkBuild/release/obj/local/x86_64/objs/jpeg-turbo1500_static/jidctfst.o"
+      ],
+      "toolchain": "toolchain-jpeg-turbo1500_static",
+      "abi": "jpeg-turbo1500_static",
+      "artifactName": "jidctfst",
+      "output": "D:\\dev\\UVCCamera\\libuvccamera\\build\\intermediates\\ndkBuild\\release\\obj\\local\\x86_64\\objs\\jpeg-turbo1500_static\\jidctfst.o"
+    },
+    "jdapistd-release-jpeg-turbo1500_static": {
+      "buildCommandComponents": [
+        "C:\\Users\\ardhi\\AppData\\Local\\Android\\Sdk\\ndk\\22.1.7171670\\ndk-build.cmd",
+        "NDK_PROJECT_PATH\u003dnull",
+        "APP_BUILD_SCRIPT\u003dD:\\dev\\UVCCamera\\libuvccamera\\src\\main\\jni\\Android.mk",
+        "NDK_APPLICATION_MK\u003dD:\\dev\\UVCCamera\\libuvccamera\\src\\main\\jni\\Application.mk",
+        "APP_ABI\u003dx86_64",
+        "NDK_ALL_ABIS\u003dx86_64",
+        "NDK_DEBUG\u003d0",
+        "APP_PLATFORM\u003dandroid-16",
+        "NDK_OUT\u003dD:/dev/UVCCamera/libuvccamera/build/intermediates/ndkBuild/release/obj",
+        "NDK_LIBS_OUT\u003dD:\\dev\\UVCCamera\\libuvccamera\\build\\intermediates\\ndkBuild\\release\\lib",
+        "D:/dev/UVCCamera/libuvccamera/build/intermediates/ndkBuild/release/obj/local/x86_64/objs/jpeg-turbo1500_static/jdapistd.o"
+      ],
+      "toolchain": "toolchain-jpeg-turbo1500_static",
+      "abi": "jpeg-turbo1500_static",
+      "artifactName": "jdapistd",
+      "output": "D:\\dev\\UVCCamera\\libuvccamera\\build\\intermediates\\ndkBuild\\release\\obj\\local\\x86_64\\objs\\jpeg-turbo1500_static\\jdapistd.o"
+    },
+    "jdpostct-release-jpeg-turbo1500_static": {
+      "buildCommandComponents": [
+        "C:\\Users\\ardhi\\AppData\\Local\\Android\\Sdk\\ndk\\22.1.7171670\\ndk-build.cmd",
+        "NDK_PROJECT_PATH\u003dnull",
+        "APP_BUILD_SCRIPT\u003dD:\\dev\\UVCCamera\\libuvccamera\\src\\main\\jni\\Android.mk",
+        "NDK_APPLICATION_MK\u003dD:\\dev\\UVCCamera\\libuvccamera\\src\\main\\jni\\Application.mk",
+        "APP_ABI\u003dx86_64",
+        "NDK_ALL_ABIS\u003dx86_64",
+        "NDK_DEBUG\u003d0",
+        "APP_PLATFORM\u003dandroid-16",
+        "NDK_OUT\u003dD:/dev/UVCCamera/libuvccamera/build/intermediates/ndkBuild/release/obj",
+        "NDK_LIBS_OUT\u003dD:\\dev\\UVCCamera\\libuvccamera\\build\\intermediates\\ndkBuild\\release\\lib",
+        "D:/dev/UVCCamera/libuvccamera/build/intermediates/ndkBuild/release/obj/local/x86_64/objs/jpeg-turbo1500_static/jdpostct.o"
+      ],
+      "toolchain": "toolchain-jpeg-turbo1500_static",
+      "abi": "jpeg-turbo1500_static",
+      "artifactName": "jdpostct",
+      "output": "D:\\dev\\UVCCamera\\libuvccamera\\build\\intermediates\\ndkBuild\\release\\obj\\local\\x86_64\\objs\\jpeg-turbo1500_static\\jdpostct.o"
+    },
+    "core-release-libusb": {
+      "buildCommandComponents": [
+        "C:\\Users\\ardhi\\AppData\\Local\\Android\\Sdk\\ndk\\22.1.7171670\\ndk-build.cmd",
+        "NDK_PROJECT_PATH\u003dnull",
+        "APP_BUILD_SCRIPT\u003dD:\\dev\\UVCCamera\\libuvccamera\\src\\main\\jni\\Android.mk",
+        "NDK_APPLICATION_MK\u003dD:\\dev\\UVCCamera\\libuvccamera\\src\\main\\jni\\Application.mk",
+        "APP_ABI\u003dx86_64",
+        "NDK_ALL_ABIS\u003dx86_64",
+        "NDK_DEBUG\u003d0",
+        "APP_PLATFORM\u003dandroid-16",
+        "NDK_OUT\u003dD:/dev/UVCCamera/libuvccamera/build/intermediates/ndkBuild/release/obj",
+        "NDK_LIBS_OUT\u003dD:\\dev\\UVCCamera\\libuvccamera\\build\\intermediates\\ndkBuild\\release\\lib",
+        "D:/dev/UVCCamera/libuvccamera/build/intermediates/ndkBuild/release/obj/local/x86_64/objs/usb100_static/libusb/core.o"
+      ],
+      "toolchain": "toolchain-libusb",
+      "abi": "libusb",
+      "artifactName": "core",
+      "output": "D:\\dev\\UVCCamera\\libuvccamera\\build\\intermediates\\ndkBuild\\release\\obj\\local\\x86_64\\objs\\usb100_static\\libusb\\core.o"
+    },
+    "frame-release-src": {
+      "buildCommandComponents": [
+        "C:\\Users\\ardhi\\AppData\\Local\\Android\\Sdk\\ndk\\22.1.7171670\\ndk-build.cmd",
+        "NDK_PROJECT_PATH\u003dnull",
+        "APP_BUILD_SCRIPT\u003dD:\\dev\\UVCCamera\\libuvccamera\\src\\main\\jni\\Android.mk",
+        "NDK_APPLICATION_MK\u003dD:\\dev\\UVCCamera\\libuvccamera\\src\\main\\jni\\Application.mk",
+        "APP_ABI\u003dx86_64",
+        "NDK_ALL_ABIS\u003dx86_64",
+        "NDK_DEBUG\u003d0",
+        "APP_PLATFORM\u003dandroid-16",
+        "NDK_OUT\u003dD:/dev/UVCCamera/libuvccamera/build/intermediates/ndkBuild/release/obj",
+        "NDK_LIBS_OUT\u003dD:\\dev\\UVCCamera\\libuvccamera\\build\\intermediates\\ndkBuild\\release\\lib",
+        "D:/dev/UVCCamera/libuvccamera/build/intermediates/ndkBuild/release/obj/local/x86_64/objs/uvc_static/src/frame.o"
+      ],
+      "toolchain": "toolchain-src",
+      "abi": "src",
+      "artifactName": "frame",
+      "output": "D:\\dev\\UVCCamera\\libuvccamera\\build\\intermediates\\ndkBuild\\release\\obj\\local\\x86_64\\objs\\uvc_static\\src\\frame.o"
+    },
+    "jpeg-turbo1500-release-x86_64": {
+      "buildCommandComponents": [
+        "C:\\Users\\ardhi\\AppData\\Local\\Android\\Sdk\\ndk\\22.1.7171670\\ndk-build.cmd",
+        "NDK_PROJECT_PATH\u003dnull",
+        "APP_BUILD_SCRIPT\u003dD:\\dev\\UVCCamera\\libuvccamera\\src\\main\\jni\\Android.mk",
+        "NDK_APPLICATION_MK\u003dD:\\dev\\UVCCamera\\libuvccamera\\src\\main\\jni\\Application.mk",
+        "APP_ABI\u003dx86_64",
+        "NDK_ALL_ABIS\u003dx86_64",
+        "NDK_DEBUG\u003d0",
+        "APP_PLATFORM\u003dandroid-16",
+        "NDK_OUT\u003dD:/dev/UVCCamera/libuvccamera/build/intermediates/ndkBuild/release/obj",
+        "NDK_LIBS_OUT\u003dD:\\dev\\UVCCamera\\libuvccamera\\build\\intermediates\\ndkBuild\\release\\lib",
+        "D:/dev/UVCCamera/libuvccamera/build/intermediates/ndkBuild/release/obj/local/x86_64/libjpeg-turbo1500.so"
+      ],
+      "toolchain": "toolchain-x86_64",
+      "abi": "x86_64",
+      "artifactName": "jpeg-turbo1500",
+      "output": "D:\\dev\\UVCCamera\\libuvccamera\\build\\intermediates\\ndkBuild\\release\\obj\\local\\x86_64\\libjpeg-turbo1500.so"
+    },
+    "jdatadst-tj-release-jpeg-turbo1500_static": {
+      "buildCommandComponents": [
+        "C:\\Users\\ardhi\\AppData\\Local\\Android\\Sdk\\ndk\\22.1.7171670\\ndk-build.cmd",
+        "NDK_PROJECT_PATH\u003dnull",
+        "APP_BUILD_SCRIPT\u003dD:\\dev\\UVCCamera\\libuvccamera\\src\\main\\jni\\Android.mk",
+        "NDK_APPLICATION_MK\u003dD:\\dev\\UVCCamera\\libuvccamera\\src\\main\\jni\\Application.mk",
+        "APP_ABI\u003dx86_64",
+        "NDK_ALL_ABIS\u003dx86_64",
+        "NDK_DEBUG\u003d0",
+        "APP_PLATFORM\u003dandroid-16",
+        "NDK_OUT\u003dD:/dev/UVCCamera/libuvccamera/build/intermediates/ndkBuild/release/obj",
+        "NDK_LIBS_OUT\u003dD:\\dev\\UVCCamera\\libuvccamera\\build\\intermediates\\ndkBuild\\release\\lib",
+        "D:/dev/UVCCamera/libuvccamera/build/intermediates/ndkBuild/release/obj/local/x86_64/objs/jpeg-turbo1500_static/jdatadst-tj.o"
+      ],
+      "toolchain": "toolchain-jpeg-turbo1500_static",
+      "abi": "jpeg-turbo1500_static",
+      "artifactName": "jdatadst-tj",
+      "output": "D:\\dev\\UVCCamera\\libuvccamera\\build\\intermediates\\ndkBuild\\release\\obj\\local\\x86_64\\objs\\jpeg-turbo1500_static\\jdatadst-tj.o"
+    },
+    "jdmerge-release-jpeg-turbo1500_static": {
+      "buildCommandComponents": [
+        "C:\\Users\\ardhi\\AppData\\Local\\Android\\Sdk\\ndk\\22.1.7171670\\ndk-build.cmd",
+        "NDK_PROJECT_PATH\u003dnull",
+        "APP_BUILD_SCRIPT\u003dD:\\dev\\UVCCamera\\libuvccamera\\src\\main\\jni\\Android.mk",
+        "NDK_APPLICATION_MK\u003dD:\\dev\\UVCCamera\\libuvccamera\\src\\main\\jni\\Application.mk",
+        "APP_ABI\u003dx86_64",
+        "NDK_ALL_ABIS\u003dx86_64",
+        "NDK_DEBUG\u003d0",
+        "APP_PLATFORM\u003dandroid-16",
+        "NDK_OUT\u003dD:/dev/UVCCamera/libuvccamera/build/intermediates/ndkBuild/release/obj",
+        "NDK_LIBS_OUT\u003dD:\\dev\\UVCCamera\\libuvccamera\\build\\intermediates\\ndkBuild\\release\\lib",
+        "D:/dev/UVCCamera/libuvccamera/build/intermediates/ndkBuild/release/obj/local/x86_64/objs/jpeg-turbo1500_static/jdmerge.o"
+      ],
+      "toolchain": "toolchain-jpeg-turbo1500_static",
+      "abi": "jpeg-turbo1500_static",
+      "artifactName": "jdmerge",
+      "output": "D:\\dev\\UVCCamera\\libuvccamera\\build\\intermediates\\ndkBuild\\release\\obj\\local\\x86_64\\objs\\jpeg-turbo1500_static\\jdmerge.o"
+    },
+    "jcarith-release-jpeg-turbo1500_static": {
+      "buildCommandComponents": [
+        "C:\\Users\\ardhi\\AppData\\Local\\Android\\Sdk\\ndk\\22.1.7171670\\ndk-build.cmd",
+        "NDK_PROJECT_PATH\u003dnull",
+        "APP_BUILD_SCRIPT\u003dD:\\dev\\UVCCamera\\libuvccamera\\src\\main\\jni\\Android.mk",
+        "NDK_APPLICATION_MK\u003dD:\\dev\\UVCCamera\\libuvccamera\\src\\main\\jni\\Application.mk",
+        "APP_ABI\u003dx86_64",
+        "NDK_ALL_ABIS\u003dx86_64",
+        "NDK_DEBUG\u003d0",
+        "APP_PLATFORM\u003dandroid-16",
+        "NDK_OUT\u003dD:/dev/UVCCamera/libuvccamera/build/intermediates/ndkBuild/release/obj",
+        "NDK_LIBS_OUT\u003dD:\\dev\\UVCCamera\\libuvccamera\\build\\intermediates\\ndkBuild\\release\\lib",
+        "D:/dev/UVCCamera/libuvccamera/build/intermediates/ndkBuild/release/obj/local/x86_64/objs/jpeg-turbo1500_static/jcarith.o"
+      ],
+      "toolchain": "toolchain-jpeg-turbo1500_static",
+      "abi": "jpeg-turbo1500_static",
+      "artifactName": "jcarith",
+      "output": "D:\\dev\\UVCCamera\\libuvccamera\\build\\intermediates\\ndkBuild\\release\\obj\\local\\x86_64\\objs\\jpeg-turbo1500_static\\jcarith.o"
+    }
+  },
+  "toolchains": {
+    "toolchain-os": {
+      "cCompilerExecutable": "C:\\Users\\ardhi\\AppData\\Local\\Android\\Sdk\\ndk\\22.1.7171670\\build\\..\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe"
+    },
+    "toolchain-x86_64": {
+      "cppCompilerExecutable": "C:\\Users\\ardhi\\AppData\\Local\\Android\\Sdk\\ndk\\22.1.7171670\\build\\..\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe"
+    },
+    "toolchain-jpeg-turbo1500_static": {
+      "cCompilerExecutable": "C:\\Users\\ardhi\\AppData\\Local\\Android\\Sdk\\ndk\\22.1.7171670\\build\\..\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe"
+    },
+    "toolchain-src": {
+      "cCompilerExecutable": "C:\\Users\\ardhi\\AppData\\Local\\Android\\Sdk\\ndk\\22.1.7171670\\build\\..\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe"
+    },
+    "toolchain-libusb": {
+      "cCompilerExecutable": "C:\\Users\\ardhi\\AppData\\Local\\Android\\Sdk\\ndk\\22.1.7171670\\build\\..\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe"
+    },
+    "toolchain-simd": {
+      "cCompilerExecutable": "C:\\Users\\ardhi\\AppData\\Local\\Android\\Sdk\\ndk\\22.1.7171670\\build\\..\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe"
+    }
+  },
+  "cFileExtensions": [
+    "c"
+  ],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

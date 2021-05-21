@@ -23,10 +23,10 @@
 
 package com.serenegiant.usb;
 
-import java.util.Locale;
-
 import android.os.Parcel;
 import android.os.Parcelable;
+
+import java.util.Locale;
 
 public class Size implements Parcelable {
 	//

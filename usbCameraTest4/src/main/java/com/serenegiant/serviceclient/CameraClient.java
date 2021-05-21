@@ -23,8 +23,6 @@
 
 package com.serenegiant.serviceclient;
 
-import java.lang.ref.WeakReference;
-
 import android.content.ComponentName;
 import android.content.Context;
 import android.content.Intent;
@@ -40,6 +38,8 @@ import android.view.Surface;
 
 import com.serenegiant.service.IUVCService;
 import com.serenegiant.service.IUVCServiceCallback;
+
+import java.lang.ref.WeakReference;
 
 public class CameraClient implements ICameraClient {
 	private static final boolean DEBUG = true;

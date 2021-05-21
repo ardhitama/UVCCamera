@@ -23,8 +23,6 @@
 
 package com.serenegiant.usbcameratest4;
 
-import java.util.List;
-
 import android.app.Activity;
 import android.app.Fragment;
 import android.content.Intent;
@@ -48,13 +46,14 @@ import com.serenegiant.service.UVCService;
 import com.serenegiant.serviceclient.CameraClient;
 import com.serenegiant.serviceclient.ICameraClient;
 import com.serenegiant.serviceclient.ICameraClientCallback;
-
 import com.serenegiant.usb.CameraDialog;
 import com.serenegiant.usb.DeviceFilter;
 import com.serenegiant.usb.USBMonitor;
 import com.serenegiant.usb.USBMonitor.OnDeviceConnectListener;
 import com.serenegiant.usb.USBMonitor.UsbControlBlock;
 import com.serenegiant.widget.CameraViewInterface;
+
+import java.util.List;
 
 public class CameraFragment extends BaseFragment {
 
